@@ -1,0 +1,16 @@
+
+"epochs 6  early stop 2  flow_num 5  max seq 256  "
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 6022, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.4095, "te_mf1": 0.4042}} 1
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 7040, "cl": 0.3}, "metric": {"stop": 3, "tv_mf1": 0.4166, "te_mf1": 0.4034}} 2
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 7129, "cl": 0.3}, "metric": {"stop": 3, "tv_mf1": 0.415, "te_mf1": 0.4022}} 3
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 8227, "cl": 0.3}, "metric": {"stop": 4, "tv_mf1": 0.4116, "te_mf1": 0.4019}} 4
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 9079, "cl": 0.3}, "metric": {"stop": 3, "tv_mf1": 0.4164, "te_mf1": 0.4018}} 5
+
+
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 7924, "fn_rate": 0.4}, "metric": {"stop": 3, "tv_mf1": 0.4101, "te_mf1": 0.3816}}
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 7816, "fn_rate": 0.4}, "metric": {"stop": 5, "tv_mf1": 0.4078, "te_mf1": 0.3893}}
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 6037, "fn_rate": 0.4}, "metric": {"stop": 3, "tv_mf1": 0.4076, "te_mf1": 0.3802}}
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 8529, "fn_rate": 0.4}, "metric": {"stop": 5, "tv_mf1": 0.4232, "te_mf1": 0.3718}}
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 8085, "fn_rate": 0.4}, "metric": {"stop": 3, "tv_mf1": 0.4115, "te_mf1": 0.3892}}
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 5700, "fn_rate": 0.4}, "metric": {"stop": 2, "tv_mf1": 0.4018, "te_mf1": 0.3616}}
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 7622, "fn_rate": 0.4}, "metric": {"stop": 3, "tv_mf1": 0.4057, "te_mf1": 0.3903}}

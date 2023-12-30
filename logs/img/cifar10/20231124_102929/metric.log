@@ -1,0 +1,466 @@
+2023-11-24 10:30:08.088 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 6.3, "weighted_f1": 0.0855, "micro_f1": 0.0917, "accuracy": 0.0917}
+2023-11-24 10:30:08.250 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.85, "weighted_f1": 0.0867, "micro_f1": 0.0904, "accuracy": 0.0904, "time": 13.859}
+2023-11-24 10:30:21.467 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 5.64, "weighted_f1": 0.103, "micro_f1": 0.1072, "accuracy": 0.1072}
+2023-11-24 10:30:21.606 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.24, "weighted_f1": 0.0983, "micro_f1": 0.1008, "accuracy": 0.1008, "time": 13.33}
+2023-11-24 10:30:34.811 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 4.3, "weighted_f1": 0.1346, "micro_f1": 0.1384, "accuracy": 0.1384}
+2023-11-24 10:30:34.950 | INFO     | utils.processor:update_metric:228 - train: {"loss": 4.27, "weighted_f1": 0.1189, "micro_f1": 0.12, "accuracy": 0.12, "time": 13.318}
+2023-11-24 10:30:48.164 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 3.35, "weighted_f1": 0.1748, "micro_f1": 0.1768, "accuracy": 0.1768}
+2023-11-24 10:30:48.312 | INFO     | utils.processor:update_metric:228 - train: {"loss": 3.34, "weighted_f1": 0.1557, "micro_f1": 0.1556, "accuracy": 0.1556, "time": 13.336}
+2023-11-24 10:31:01.541 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.7, "weighted_f1": 0.2335, "micro_f1": 0.2354, "accuracy": 0.2354}
+2023-11-24 10:31:01.681 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.64, "weighted_f1": 0.2115, "micro_f1": 0.2116, "accuracy": 0.2116, "time": 13.343}
+2023-11-24 10:31:14.892 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.18, "weighted_f1": 0.3131, "micro_f1": 0.3149, "accuracy": 0.3149}
+2023-11-24 10:31:15.033 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.17, "weighted_f1": 0.2837, "micro_f1": 0.2844, "accuracy": 0.2844, "time": 13.326}
+2023-11-24 10:31:28.274 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.11, "weighted_f1": 0.3842, "micro_f1": 0.3846, "accuracy": 0.3846}
+2023-11-24 10:31:28.414 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.86, "weighted_f1": 0.3685, "micro_f1": 0.3697, "accuracy": 0.3697, "time": 13.355}
+2023-11-24 10:31:41.631 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.66, "weighted_f1": 0.458, "micro_f1": 0.4587, "accuracy": 0.4587}
+2023-11-24 10:31:41.772 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.61, "weighted_f1": 0.4394, "micro_f1": 0.4408, "accuracy": 0.4408, "time": 13.332}
+2023-11-24 10:31:55.001 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.48, "weighted_f1": 0.5126, "micro_f1": 0.5134, "accuracy": 0.5134}
+2023-11-24 10:31:55.141 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.43, "weighted_f1": 0.4995, "micro_f1": 0.5007, "accuracy": 0.5007, "time": 13.343}
+2023-11-24 10:32:08.354 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.4, "weighted_f1": 0.5563, "micro_f1": 0.5574, "accuracy": 0.5574}
+2023-11-24 10:32:08.495 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.29, "weighted_f1": 0.5501, "micro_f1": 0.5509, "accuracy": 0.5509, "time": 13.328}
+2023-11-24 10:32:21.705 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.32, "weighted_f1": 0.5872, "micro_f1": 0.5886, "accuracy": 0.5886}
+2023-11-24 10:32:21.845 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.18, "weighted_f1": 0.5871, "micro_f1": 0.5878, "accuracy": 0.5878, "time": 13.325}
+2023-11-24 10:32:35.091 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.27, "weighted_f1": 0.6217, "micro_f1": 0.6218, "accuracy": 0.6218}
+2023-11-24 10:32:35.232 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.1, "weighted_f1": 0.619, "micro_f1": 0.6195, "accuracy": 0.6195, "time": 13.361}
+2023-11-24 10:32:48.443 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.04, "weighted_f1": 0.6516, "micro_f1": 0.6524, "accuracy": 0.6524}
+2023-11-24 10:32:48.582 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.02, "weighted_f1": 0.6509, "micro_f1": 0.6514, "accuracy": 0.6514, "time": 13.324}
+2023-11-24 10:33:01.804 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.08, "weighted_f1": 0.6681, "micro_f1": 0.6674, "accuracy": 0.6674}
+2023-11-24 10:33:01.945 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.94, "weighted_f1": 0.6732, "micro_f1": 0.6737, "accuracy": 0.6737, "time": 13.337}
+2023-11-24 10:33:15.161 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.14, "weighted_f1": 0.6862, "micro_f1": 0.6864, "accuracy": 0.6864}
+2023-11-24 10:33:15.301 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.88, "weighted_f1": 0.6962, "micro_f1": 0.6965, "accuracy": 0.6965, "time": 13.33}
+2023-11-24 10:33:28.521 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.21, "weighted_f1": 0.7046, "micro_f1": 0.7039, "accuracy": 0.7039}
+2023-11-24 10:33:28.662 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.83, "weighted_f1": 0.7156, "micro_f1": 0.7159, "accuracy": 0.7159, "time": 13.334}
+2023-11-24 10:33:41.883 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.82, "weighted_f1": 0.7244, "micro_f1": 0.7253, "accuracy": 0.7253}
+2023-11-24 10:33:42.023 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.78, "weighted_f1": 0.729, "micro_f1": 0.7291, "accuracy": 0.7291, "time": 13.336}
+2023-11-24 10:33:55.250 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.8, "weighted_f1": 0.739, "micro_f1": 0.7396, "accuracy": 0.7396}
+2023-11-24 10:33:55.393 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.74, "weighted_f1": 0.7453, "micro_f1": 0.7455, "accuracy": 0.7455, "time": 13.343}
+2023-11-24 10:34:08.618 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.93, "weighted_f1": 0.7467, "micro_f1": 0.7475, "accuracy": 0.7475}
+2023-11-24 10:34:08.757 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.7, "weighted_f1": 0.761, "micro_f1": 0.7613, "accuracy": 0.7613, "time": 13.338}
+2023-11-24 10:34:22.016 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.95, "weighted_f1": 0.7568, "micro_f1": 0.7568, "accuracy": 0.7568}
+2023-11-24 10:34:22.157 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.66, "weighted_f1": 0.7709, "micro_f1": 0.7713, "accuracy": 0.7713, "time": 13.374}
+2023-11-24 10:34:35.394 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.7671, "micro_f1": 0.7676, "accuracy": 0.7676}
+2023-11-24 10:34:35.536 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.63, "weighted_f1": 0.785, "micro_f1": 0.7852, "accuracy": 0.7852, "time": 13.353}
+2023-11-24 10:34:48.758 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.69, "weighted_f1": 0.775, "micro_f1": 0.7755, "accuracy": 0.7755}
+2023-11-24 10:34:48.901 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.6, "weighted_f1": 0.7968, "micro_f1": 0.7969, "accuracy": 0.7969, "time": 13.339}
+2023-11-24 10:35:02.130 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.69, "weighted_f1": 0.7826, "micro_f1": 0.7836, "accuracy": 0.7836}
+2023-11-24 10:35:02.272 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.57, "weighted_f1": 0.8052, "micro_f1": 0.8054, "accuracy": 0.8054, "time": 13.345}
+2023-11-24 10:35:15.494 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.62, "weighted_f1": 0.7925, "micro_f1": 0.7936, "accuracy": 0.7936}
+2023-11-24 10:35:15.636 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.54, "weighted_f1": 0.815, "micro_f1": 0.8152, "accuracy": 0.8152, "time": 13.338}
+2023-11-24 10:35:29.000 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.51, "weighted_f1": 0.8267, "micro_f1": 0.8269, "accuracy": 0.8269, "time": 13.338}
+2023-11-24 10:35:42.210 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.8014, "micro_f1": 0.8019, "accuracy": 0.8019}
+2023-11-24 10:35:42.352 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.48, "weighted_f1": 0.833, "micro_f1": 0.8332, "accuracy": 0.8332, "time": 13.326}
+2023-11-24 10:35:55.565 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.8081, "micro_f1": 0.8086, "accuracy": 0.8086}
+2023-11-24 10:35:55.707 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.46, "weighted_f1": 0.8418, "micro_f1": 0.842, "accuracy": 0.842, "time": 13.329}
+2023-11-24 10:36:08.929 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.58, "weighted_f1": 0.8092, "micro_f1": 0.8105, "accuracy": 0.8105}
+2023-11-24 10:36:09.071 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.43, "weighted_f1": 0.8497, "micro_f1": 0.8498, "accuracy": 0.8498, "time": 13.339}
+2023-11-24 10:36:22.422 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.4, "weighted_f1": 0.8589, "micro_f1": 0.859, "accuracy": 0.859, "time": 13.325}
+2023-11-24 10:36:35.638 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.8163, "micro_f1": 0.817, "accuracy": 0.817}
+2023-11-24 10:36:35.778 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.38, "weighted_f1": 0.8678, "micro_f1": 0.8679, "accuracy": 0.8679, "time": 13.33}
+2023-11-24 10:36:48.973 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8201, "micro_f1": 0.8208, "accuracy": 0.8208}
+2023-11-24 10:36:49.115 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.35, "weighted_f1": 0.8758, "micro_f1": 0.8759, "accuracy": 0.8759, "time": 13.311}
+2023-11-24 10:37:02.386 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8258, "micro_f1": 0.8263, "accuracy": 0.8263}
+2023-11-24 10:37:02.528 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.33, "weighted_f1": 0.8838, "micro_f1": 0.8838, "accuracy": 0.8838, "time": 13.387}
+2023-11-24 10:37:15.878 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.31, "weighted_f1": 0.8907, "micro_f1": 0.8907, "accuracy": 0.8907, "time": 13.324}
+2023-11-24 10:37:29.070 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8283, "micro_f1": 0.829, "accuracy": 0.829}
+2023-11-24 10:37:29.211 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.29, "weighted_f1": 0.8993, "micro_f1": 0.8994, "accuracy": 0.8994, "time": 13.307}
+2023-11-24 10:37:42.544 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.27, "weighted_f1": 0.9064, "micro_f1": 0.9064, "accuracy": 0.9064, "time": 13.307}
+2023-11-24 10:37:55.754 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8301, "micro_f1": 0.8302, "accuracy": 0.8302}
+2023-11-24 10:37:55.895 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.25, "weighted_f1": 0.9133, "micro_f1": 0.9134, "accuracy": 0.9134, "time": 13.324}
+2023-11-24 10:38:09.244 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.24, "weighted_f1": 0.9181, "micro_f1": 0.9181, "accuracy": 0.9181, "time": 13.323}
+2023-11-24 10:38:22.459 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.8304, "micro_f1": 0.8302, "accuracy": 0.8302}
+2023-11-24 10:38:22.600 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.22, "weighted_f1": 0.9262, "micro_f1": 0.9261, "accuracy": 0.9261, "time": 13.331}
+2023-11-24 10:38:35.938 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.21, "weighted_f1": 0.9279, "micro_f1": 0.9279, "accuracy": 0.9279, "time": 13.312}
+2023-11-24 10:38:49.161 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.8315, "micro_f1": 0.8319, "accuracy": 0.8319}
+2023-11-24 10:38:49.301 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.19, "weighted_f1": 0.9363, "micro_f1": 0.9363, "accuracy": 0.9363, "time": 13.337}
+2023-11-24 10:39:02.509 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.8324, "micro_f1": 0.8325, "accuracy": 0.8325}
+2023-11-24 10:39:02.651 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.18, "weighted_f1": 0.9394, "micro_f1": 0.9394, "accuracy": 0.9394, "time": 13.324}
+2023-11-24 10:39:15.999 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.16, "weighted_f1": 0.9434, "micro_f1": 0.9434, "accuracy": 0.9434, "time": 13.322}
+2023-11-24 10:39:29.205 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.8351, "micro_f1": 0.8358, "accuracy": 0.8358}
+2023-11-24 10:39:29.346 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.15, "weighted_f1": 0.9453, "micro_f1": 0.9453, "accuracy": 0.9453, "time": 13.321}
+2023-11-24 10:39:42.567 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.6, "weighted_f1": 0.8359, "micro_f1": 0.8362, "accuracy": 0.8362}
+2023-11-24 10:39:42.708 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.15, "weighted_f1": 0.9507, "micro_f1": 0.9507, "accuracy": 0.9507, "time": 13.337}
+2023-11-24 10:39:56.071 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.14, "weighted_f1": 0.9532, "micro_f1": 0.9532, "accuracy": 0.9532, "time": 13.337}
+2023-11-24 10:40:09.280 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.61, "weighted_f1": 0.8371, "micro_f1": 0.8376, "accuracy": 0.8376}
+2023-11-24 10:40:09.421 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "weighted_f1": 0.9576, "micro_f1": 0.9576, "accuracy": 0.9576, "time": 13.324}
+2023-11-24 10:40:22.763 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "weighted_f1": 0.961, "micro_f1": 0.961, "accuracy": 0.961, "time": 13.315}
+2023-11-24 10:40:36.100 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "weighted_f1": 0.964, "micro_f1": 0.964, "accuracy": 0.964, "time": 13.312}
+2023-11-24 10:40:49.302 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.63, "weighted_f1": 0.8403, "micro_f1": 0.8404, "accuracy": 0.8404}
+2023-11-24 10:40:49.444 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.1, "weighted_f1": 0.9657, "micro_f1": 0.9657, "accuracy": 0.9657, "time": 13.318}
+2023-11-24 10:41:02.773 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.1, "weighted_f1": 0.9669, "micro_f1": 0.9669, "accuracy": 0.9669, "time": 13.303}
+2023-11-24 10:41:16.141 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.09, "weighted_f1": 0.9697, "micro_f1": 0.9697, "accuracy": 0.9697, "time": 13.342}
+2023-11-24 10:41:29.482 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.09, "weighted_f1": 0.9714, "micro_f1": 0.9714, "accuracy": 0.9714, "time": 13.314}
+2023-11-24 10:41:42.827 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.08, "weighted_f1": 0.9731, "micro_f1": 0.9731, "accuracy": 0.9731, "time": 13.319}
+2023-11-24 10:41:56.046 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.66, "weighted_f1": 0.8411, "micro_f1": 0.8417, "accuracy": 0.8417}
+2023-11-24 10:41:56.187 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.08, "weighted_f1": 0.975, "micro_f1": 0.975, "accuracy": 0.975, "time": 13.335}
+2023-11-24 10:42:09.572 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.07, "weighted_f1": 0.977, "micro_f1": 0.977, "accuracy": 0.977, "time": 13.359}
+2023-11-24 10:42:22.940 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.07, "weighted_f1": 0.9786, "micro_f1": 0.9786, "accuracy": 0.9786, "time": 13.342}
+2023-11-24 10:42:36.314 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9798, "micro_f1": 0.9798, "accuracy": 0.9798, "time": 13.349}
+2023-11-24 10:42:49.683 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9804, "micro_f1": 0.9804, "accuracy": 0.9804, "time": 13.342}
+2023-11-24 10:43:03.048 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.982, "micro_f1": 0.982, "accuracy": 0.982, "time": 13.34}
+2023-11-24 10:43:16.383 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9827, "micro_f1": 0.9827, "accuracy": 0.9827, "time": 13.309}
+2023-11-24 10:43:29.719 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9841, "micro_f1": 0.9841, "accuracy": 0.9841, "time": 13.309}
+2023-11-24 10:43:42.929 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.69, "weighted_f1": 0.8428, "micro_f1": 0.8427, "accuracy": 0.8427}
+2023-11-24 10:43:43.071 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9849, "micro_f1": 0.9849, "accuracy": 0.9849, "time": 13.326}
+2023-11-24 10:43:56.396 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9857, "micro_f1": 0.9857, "accuracy": 0.9857, "time": 13.299}
+2023-11-24 10:44:09.586 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.69, "weighted_f1": 0.8429, "micro_f1": 0.8432, "accuracy": 0.8432}
+2023-11-24 10:44:09.728 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.986, "micro_f1": 0.986, "accuracy": 0.986, "time": 13.306}
+2023-11-24 10:44:23.078 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9876, "micro_f1": 0.9876, "accuracy": 0.9876, "time": 13.324}
+2023-11-24 10:44:36.270 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8444, "micro_f1": 0.8446, "accuracy": 0.8446}
+2023-11-24 10:44:36.411 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9884, "micro_f1": 0.9884, "accuracy": 0.9884, "time": 13.307}
+2023-11-24 10:44:49.767 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9883, "micro_f1": 0.9883, "accuracy": 0.9883, "time": 13.33}
+2023-11-24 10:45:03.120 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9882, "micro_f1": 0.9882, "accuracy": 0.9882, "time": 13.327}
+2023-11-24 10:45:16.330 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.69, "weighted_f1": 0.8448, "micro_f1": 0.8452, "accuracy": 0.8452}
+2023-11-24 10:45:16.473 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9894, "micro_f1": 0.9894, "accuracy": 0.9894, "time": 13.326}
+2023-11-24 10:45:29.668 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.69, "weighted_f1": 0.8452, "micro_f1": 0.8455, "accuracy": 0.8455}
+2023-11-24 10:45:29.810 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9898, "micro_f1": 0.9898, "accuracy": 0.9898, "time": 13.312}
+2023-11-24 10:45:43.169 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9909, "micro_f1": 0.9909, "accuracy": 0.9909, "time": 13.333}
+2023-11-24 10:45:56.499 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.992, "micro_f1": 0.992, "accuracy": 0.992, "time": 13.304}
+2023-11-24 10:46:09.719 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.847, "micro_f1": 0.8471, "accuracy": 0.8471}
+2023-11-24 10:46:09.863 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9917, "micro_f1": 0.9917, "accuracy": 0.9917, "time": 13.337}
+2023-11-24 10:46:23.220 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9922, "micro_f1": 0.9922, "accuracy": 0.9922, "time": 13.331}
+2023-11-24 10:46:36.567 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9925, "micro_f1": 0.9925, "accuracy": 0.9925, "time": 13.322}
+2023-11-24 10:46:49.912 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9927, "micro_f1": 0.9927, "accuracy": 0.9927, "time": 13.319}
+2023-11-24 10:47:03.266 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9929, "micro_f1": 0.9929, "accuracy": 0.9929, "time": 13.328}
+2023-11-24 10:47:16.621 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9939, "micro_f1": 0.9939, "accuracy": 0.9939, "time": 13.329}
+2023-11-24 10:47:29.977 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9941, "micro_f1": 0.9941, "accuracy": 0.9941, "time": 13.33}
+2023-11-24 10:47:43.211 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8475, "micro_f1": 0.8475, "accuracy": 0.8475}
+2023-11-24 10:47:43.353 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9941, "micro_f1": 0.9941, "accuracy": 0.9941, "time": 13.35}
+2023-11-24 10:47:56.728 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9942, "micro_f1": 0.9942, "accuracy": 0.9942, "time": 13.35}
+2023-11-24 10:48:10.090 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9945, "micro_f1": 0.9945, "accuracy": 0.9945, "time": 13.335}
+2023-11-24 10:48:23.323 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8476, "micro_f1": 0.8477, "accuracy": 0.8477}
+2023-11-24 10:48:23.466 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9952, "micro_f1": 0.9952, "accuracy": 0.9952, "time": 13.35}
+2023-11-24 10:48:36.700 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8494, "micro_f1": 0.8494, "accuracy": 0.8494}
+2023-11-24 10:48:36.842 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.995, "micro_f1": 0.995, "accuracy": 0.995, "time": 13.35}
+2023-11-24 10:48:50.213 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9951, "micro_f1": 0.9951, "accuracy": 0.9951, "time": 13.345}
+2023-11-24 10:49:03.574 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9958, "micro_f1": 0.9958, "accuracy": 0.9958, "time": 13.335}
+2023-11-24 10:49:16.927 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9957, "micro_f1": 0.9957, "accuracy": 0.9957, "time": 13.327}
+2023-11-24 10:49:30.282 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9957, "micro_f1": 0.9957, "accuracy": 0.9957, "time": 13.329}
+2023-11-24 10:49:43.656 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9964, "micro_f1": 0.9964, "accuracy": 0.9964, "time": 13.349}
+2023-11-24 10:49:57.022 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9955, "micro_f1": 0.9955, "accuracy": 0.9955, "time": 13.34}
+2023-11-24 10:50:10.392 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9966, "micro_f1": 0.9966, "accuracy": 0.9966, "time": 13.344}
+2023-11-24 10:50:23.792 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9966, "micro_f1": 0.9966, "accuracy": 0.9966, "time": 13.374}
+2023-11-24 10:50:37.217 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9962, "micro_f1": 0.9962, "accuracy": 0.9962, "time": 13.399}
+2023-11-24 10:50:50.631 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9969, "micro_f1": 0.9969, "accuracy": 0.9969, "time": 13.388}
+2023-11-24 10:51:04.045 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9966, "micro_f1": 0.9966, "accuracy": 0.9966, "time": 13.388}
+2023-11-24 10:51:17.453 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9972, "micro_f1": 0.9972, "accuracy": 0.9972, "time": 13.382}
+2023-11-24 10:51:30.819 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9973, "micro_f1": 0.9973, "accuracy": 0.9973, "time": 13.34}
+2023-11-24 10:51:44.196 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9974, "micro_f1": 0.9974, "accuracy": 0.9974, "time": 13.351}
+2023-11-24 10:51:57.575 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.353}
+2023-11-24 10:52:10.931 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9972, "micro_f1": 0.9972, "accuracy": 0.9972, "time": 13.33}
+2023-11-24 10:52:47.360 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 6.15, "weighted_f1": 0.0938, "micro_f1": 0.0961, "accuracy": 0.0961}
+2023-11-24 10:52:47.493 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.93, "weighted_f1": 0.0901, "micro_f1": 0.0921, "accuracy": 0.0921, "time": 13.349}
+2023-11-24 10:53:00.725 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 5.39, "weighted_f1": 0.1086, "micro_f1": 0.1116, "accuracy": 0.1116}
+2023-11-24 10:53:00.863 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.3, "weighted_f1": 0.0982, "micro_f1": 0.1, "accuracy": 0.1, "time": 13.344}
+2023-11-24 10:53:14.105 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 4.39, "weighted_f1": 0.1326, "micro_f1": 0.1356, "accuracy": 0.1356}
+2023-11-24 10:53:14.243 | INFO     | utils.processor:update_metric:228 - train: {"loss": 4.35, "weighted_f1": 0.121, "micro_f1": 0.1225, "accuracy": 0.1225, "time": 13.354}
+2023-11-24 10:53:27.490 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 3.56, "weighted_f1": 0.1742, "micro_f1": 0.1777, "accuracy": 0.1777}
+2023-11-24 10:53:27.631 | INFO     | utils.processor:update_metric:228 - train: {"loss": 3.46, "weighted_f1": 0.1515, "micro_f1": 0.1533, "accuracy": 0.1533, "time": 13.362}
+2023-11-24 10:53:40.875 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.92, "weighted_f1": 0.23, "micro_f1": 0.2328, "accuracy": 0.2328}
+2023-11-24 10:53:41.014 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.72, "weighted_f1": 0.2037, "micro_f1": 0.2057, "accuracy": 0.2057, "time": 13.358}
+2023-11-24 10:53:54.244 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.32, "weighted_f1": 0.3054, "micro_f1": 0.3073, "accuracy": 0.3073}
+2023-11-24 10:53:54.384 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.24, "weighted_f1": 0.2696, "micro_f1": 0.2716, "accuracy": 0.2716, "time": 13.344}
+2023-11-24 10:54:07.615 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.06, "weighted_f1": 0.3754, "micro_f1": 0.3766, "accuracy": 0.3766}
+2023-11-24 10:54:07.754 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.91, "weighted_f1": 0.3491, "micro_f1": 0.3512, "accuracy": 0.3512, "time": 13.344}
+2023-11-24 10:54:20.984 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.81, "weighted_f1": 0.4421, "micro_f1": 0.4437, "accuracy": 0.4437}
+2023-11-24 10:54:21.124 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.67, "weighted_f1": 0.4194, "micro_f1": 0.4209, "accuracy": 0.4209, "time": 13.344}
+2023-11-24 10:54:34.325 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.54, "weighted_f1": 0.5042, "micro_f1": 0.5053, "accuracy": 0.5053}
+2023-11-24 10:54:34.466 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.49, "weighted_f1": 0.4821, "micro_f1": 0.4839, "accuracy": 0.4839, "time": 13.315}
+2023-11-24 10:54:47.689 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.36, "weighted_f1": 0.5446, "micro_f1": 0.5462, "accuracy": 0.5462}
+2023-11-24 10:54:47.830 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.33, "weighted_f1": 0.534, "micro_f1": 0.5354, "accuracy": 0.5354, "time": 13.339}
+2023-11-24 10:55:01.042 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.3, "weighted_f1": 0.5801, "micro_f1": 0.5799, "accuracy": 0.5799}
+2023-11-24 10:55:01.183 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.22, "weighted_f1": 0.5717, "micro_f1": 0.5726, "accuracy": 0.5726, "time": 13.327}
+2023-11-24 10:55:14.409 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.28, "weighted_f1": 0.6122, "micro_f1": 0.6115, "accuracy": 0.6115}
+2023-11-24 10:55:14.551 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.12, "weighted_f1": 0.6086, "micro_f1": 0.6093, "accuracy": 0.6093, "time": 13.341}
+2023-11-24 10:55:27.744 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.2, "weighted_f1": 0.6368, "micro_f1": 0.6357, "accuracy": 0.6357}
+2023-11-24 10:55:27.885 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.03, "weighted_f1": 0.6416, "micro_f1": 0.6422, "accuracy": 0.6422, "time": 13.309}
+2023-11-24 10:55:41.110 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.04, "weighted_f1": 0.6604, "micro_f1": 0.6618, "accuracy": 0.6618}
+2023-11-24 10:55:41.251 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.97, "weighted_f1": 0.6648, "micro_f1": 0.6651, "accuracy": 0.6651, "time": 13.34}
+2023-11-24 10:55:54.451 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.13, "weighted_f1": 0.6798, "micro_f1": 0.6805, "accuracy": 0.6805}
+2023-11-24 10:55:54.592 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.9, "weighted_f1": 0.6885, "micro_f1": 0.6887, "accuracy": 0.6887, "time": 13.315}
+2023-11-24 10:56:07.823 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.01, "weighted_f1": 0.7038, "micro_f1": 0.7045, "accuracy": 0.7045}
+2023-11-24 10:56:07.964 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.84, "weighted_f1": 0.7083, "micro_f1": 0.7086, "accuracy": 0.7086, "time": 13.346}
+2023-11-24 10:56:21.163 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.03, "weighted_f1": 0.7168, "micro_f1": 0.7183, "accuracy": 0.7183}
+2023-11-24 10:56:21.305 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.79, "weighted_f1": 0.7278, "micro_f1": 0.7281, "accuracy": 0.7281, "time": 13.315}
+2023-11-24 10:56:34.538 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.0, "weighted_f1": 0.7307, "micro_f1": 0.7315, "accuracy": 0.7315}
+2023-11-24 10:56:34.680 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.75, "weighted_f1": 0.7414, "micro_f1": 0.7416, "accuracy": 0.7416, "time": 13.349}
+2023-11-24 10:56:47.882 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.81, "weighted_f1": 0.7421, "micro_f1": 0.7434, "accuracy": 0.7434}
+2023-11-24 10:56:48.024 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.71, "weighted_f1": 0.7564, "micro_f1": 0.7566, "accuracy": 0.7566, "time": 13.318}
+2023-11-24 10:57:01.398 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.67, "weighted_f1": 0.7686, "micro_f1": 0.7689, "accuracy": 0.7689, "time": 13.348}
+2023-11-24 10:57:14.596 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.769, "micro_f1": 0.7699, "accuracy": 0.7699}
+2023-11-24 10:57:14.738 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.63, "weighted_f1": 0.7825, "micro_f1": 0.7827, "accuracy": 0.7827, "time": 13.314}
+2023-11-24 10:57:27.964 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.7743, "micro_f1": 0.7758, "accuracy": 0.7758}
+2023-11-24 10:57:28.105 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.59, "weighted_f1": 0.7941, "micro_f1": 0.7944, "accuracy": 0.7944, "time": 13.341}
+2023-11-24 10:57:41.302 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.62, "weighted_f1": 0.7842, "micro_f1": 0.7851, "accuracy": 0.7851}
+2023-11-24 10:57:41.443 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.57, "weighted_f1": 0.8047, "micro_f1": 0.8049, "accuracy": 0.8049, "time": 13.312}
+2023-11-24 10:57:54.645 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.79, "weighted_f1": 0.7845, "micro_f1": 0.7851, "accuracy": 0.7851}
+2023-11-24 10:57:54.786 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.53, "weighted_f1": 0.8145, "micro_f1": 0.8147, "accuracy": 0.8147, "time": 13.317}
+2023-11-24 10:58:07.983 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.7996, "micro_f1": 0.8002, "accuracy": 0.8002}
+2023-11-24 10:58:08.124 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.5, "weighted_f1": 0.824, "micro_f1": 0.8242, "accuracy": 0.8242, "time": 13.312}
+2023-11-24 10:58:21.388 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.58, "weighted_f1": 0.8058, "micro_f1": 0.8065, "accuracy": 0.8065}
+2023-11-24 10:58:21.530 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.48, "weighted_f1": 0.8304, "micro_f1": 0.8306, "accuracy": 0.8306, "time": 13.38}
+2023-11-24 10:58:34.725 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.8096, "micro_f1": 0.8098, "accuracy": 0.8098}
+2023-11-24 10:58:34.868 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.45, "weighted_f1": 0.8432, "micro_f1": 0.8434, "accuracy": 0.8434, "time": 13.312}
+2023-11-24 10:58:48.084 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8135, "micro_f1": 0.8137, "accuracy": 0.8137}
+2023-11-24 10:58:48.226 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.42, "weighted_f1": 0.852, "micro_f1": 0.8521, "accuracy": 0.8521, "time": 13.333}
+2023-11-24 10:59:01.465 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8149, "micro_f1": 0.8155, "accuracy": 0.8155}
+2023-11-24 10:59:01.607 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.39, "weighted_f1": 0.8602, "micro_f1": 0.8604, "accuracy": 0.8604, "time": 13.355}
+2023-11-24 10:59:14.854 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.54, "weighted_f1": 0.8195, "micro_f1": 0.8196, "accuracy": 0.8196}
+2023-11-24 10:59:14.996 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.37, "weighted_f1": 0.8694, "micro_f1": 0.8695, "accuracy": 0.8695, "time": 13.364}
+2023-11-24 10:59:28.363 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.34, "weighted_f1": 0.878, "micro_f1": 0.8781, "accuracy": 0.8781, "time": 13.341}
+2023-11-24 10:59:41.596 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8231, "micro_f1": 0.8239, "accuracy": 0.8239}
+2023-11-24 10:59:41.739 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.32, "weighted_f1": 0.8866, "micro_f1": 0.8867, "accuracy": 0.8867, "time": 13.349}
+2023-11-24 10:59:54.942 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8236, "micro_f1": 0.8243, "accuracy": 0.8243}
+2023-11-24 10:59:55.084 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.3, "weighted_f1": 0.8955, "micro_f1": 0.8956, "accuracy": 0.8956, "time": 13.319}
+2023-11-24 11:00:08.305 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8272, "micro_f1": 0.8272, "accuracy": 0.8272}
+2023-11-24 11:00:08.447 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.28, "weighted_f1": 0.9009, "micro_f1": 0.9009, "accuracy": 0.9009, "time": 13.337}
+2023-11-24 11:00:21.789 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.26, "weighted_f1": 0.9079, "micro_f1": 0.9079, "accuracy": 0.9079, "time": 13.316}
+2023-11-24 11:00:35.001 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.56, "weighted_f1": 0.8307, "micro_f1": 0.8307, "accuracy": 0.8307}
+2023-11-24 11:00:35.143 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.24, "weighted_f1": 0.9141, "micro_f1": 0.9142, "accuracy": 0.9142, "time": 13.328}
+2023-11-24 11:00:48.338 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.831, "micro_f1": 0.8313, "accuracy": 0.8313}
+2023-11-24 11:00:48.480 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.23, "weighted_f1": 0.9221, "micro_f1": 0.9221, "accuracy": 0.9221, "time": 13.31}
+2023-11-24 11:01:01.700 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.57, "weighted_f1": 0.8331, "micro_f1": 0.833, "accuracy": 0.833}
+2023-11-24 11:01:01.842 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.21, "weighted_f1": 0.9269, "micro_f1": 0.9269, "accuracy": 0.9269, "time": 13.336}
+2023-11-24 11:01:15.187 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.2, "weighted_f1": 0.9321, "micro_f1": 0.9322, "accuracy": 0.9322, "time": 13.32}
+2023-11-24 11:01:28.416 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.58, "weighted_f1": 0.8333, "micro_f1": 0.8336, "accuracy": 0.8336}
+2023-11-24 11:01:28.558 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.18, "weighted_f1": 0.9358, "micro_f1": 0.9359, "accuracy": 0.9359, "time": 13.345}
+2023-11-24 11:01:41.764 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.8337, "micro_f1": 0.8339, "accuracy": 0.8339}
+2023-11-24 11:01:41.905 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.17, "weighted_f1": 0.943, "micro_f1": 0.943, "accuracy": 0.943, "time": 13.321}
+2023-11-24 11:01:55.137 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.6, "weighted_f1": 0.8343, "micro_f1": 0.8348, "accuracy": 0.8348}
+2023-11-24 11:01:55.280 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.16, "weighted_f1": 0.9465, "micro_f1": 0.9465, "accuracy": 0.9465, "time": 13.349}
+2023-11-24 11:02:08.492 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.6, "weighted_f1": 0.8358, "micro_f1": 0.8354, "accuracy": 0.8354}
+2023-11-24 11:02:08.633 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.15, "weighted_f1": 0.9478, "micro_f1": 0.9478, "accuracy": 0.9478, "time": 13.327}
+2023-11-24 11:02:22.001 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.14, "weighted_f1": 0.9522, "micro_f1": 0.9522, "accuracy": 0.9522, "time": 13.342}
+2023-11-24 11:02:35.360 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.13, "weighted_f1": 0.9565, "micro_f1": 0.9565, "accuracy": 0.9565, "time": 13.333}
+2023-11-24 11:02:48.776 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "weighted_f1": 0.9588, "micro_f1": 0.9588, "accuracy": 0.9588, "time": 13.391}
+2023-11-24 11:03:02.001 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.63, "weighted_f1": 0.8364, "micro_f1": 0.8362, "accuracy": 0.8362}
+2023-11-24 11:03:02.144 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "weighted_f1": 0.9621, "micro_f1": 0.9621, "accuracy": 0.9621, "time": 13.341}
+2023-11-24 11:03:15.381 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.63, "weighted_f1": 0.8369, "micro_f1": 0.8369, "accuracy": 0.8369}
+2023-11-24 11:03:15.524 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "weighted_f1": 0.9633, "micro_f1": 0.9633, "accuracy": 0.9633, "time": 13.354}
+2023-11-24 11:03:28.874 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.1, "weighted_f1": 0.9663, "micro_f1": 0.9663, "accuracy": 0.9663, "time": 13.324}
+2023-11-24 11:03:42.098 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.65, "weighted_f1": 0.8408, "micro_f1": 0.8409, "accuracy": 0.8409}
+2023-11-24 11:03:42.240 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.09, "weighted_f1": 0.9682, "micro_f1": 0.9682, "accuracy": 0.9682, "time": 13.341}
+2023-11-24 11:03:55.579 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.09, "weighted_f1": 0.9701, "micro_f1": 0.9701, "accuracy": 0.9701, "time": 13.313}
+2023-11-24 11:04:08.942 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.08, "weighted_f1": 0.9728, "micro_f1": 0.9728, "accuracy": 0.9728, "time": 13.337}
+2023-11-24 11:04:22.287 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.08, "weighted_f1": 0.9741, "micro_f1": 0.9741, "accuracy": 0.9741, "time": 13.319}
+2023-11-24 11:04:35.628 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.07, "weighted_f1": 0.9766, "micro_f1": 0.9766, "accuracy": 0.9766, "time": 13.315}
+2023-11-24 11:04:48.975 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.07, "weighted_f1": 0.9772, "micro_f1": 0.9772, "accuracy": 0.9772, "time": 13.322}
+2023-11-24 11:05:02.217 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.67, "weighted_f1": 0.8409, "micro_f1": 0.8408, "accuracy": 0.8408}
+2023-11-24 11:05:02.359 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9786, "micro_f1": 0.9786, "accuracy": 0.9786, "time": 13.358}
+2023-11-24 11:05:15.725 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9805, "micro_f1": 0.9805, "accuracy": 0.9805, "time": 13.34}
+2023-11-24 11:05:29.084 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9821, "micro_f1": 0.9821, "accuracy": 0.9821, "time": 13.333}
+2023-11-24 11:05:42.429 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9825, "micro_f1": 0.9825, "accuracy": 0.9825, "time": 13.319}
+2023-11-24 11:05:55.783 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.984, "micro_f1": 0.984, "accuracy": 0.984, "time": 13.328}
+2023-11-24 11:06:09.153 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9847, "micro_f1": 0.9847, "accuracy": 0.9847, "time": 13.345}
+2023-11-24 11:06:22.532 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9848, "micro_f1": 0.9848, "accuracy": 0.9848, "time": 13.353}
+2023-11-24 11:06:35.734 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8412, "micro_f1": 0.8417, "accuracy": 0.8417}
+2023-11-24 11:06:35.875 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.986, "micro_f1": 0.986, "accuracy": 0.986, "time": 13.317}
+2023-11-24 11:06:49.091 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8423, "micro_f1": 0.8424, "accuracy": 0.8424}
+2023-11-24 11:06:49.233 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9871, "micro_f1": 0.9871, "accuracy": 0.9871, "time": 13.332}
+2023-11-24 11:07:02.580 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9876, "micro_f1": 0.9876, "accuracy": 0.9876, "time": 13.322}
+2023-11-24 11:07:15.932 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9879, "micro_f1": 0.9879, "accuracy": 0.9879, "time": 13.326}
+2023-11-24 11:07:29.136 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.8446, "micro_f1": 0.8451, "accuracy": 0.8451}
+2023-11-24 11:07:29.277 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9883, "micro_f1": 0.9883, "accuracy": 0.9883, "time": 13.319}
+2023-11-24 11:07:42.633 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9894, "micro_f1": 0.9894, "accuracy": 0.9894, "time": 13.33}
+2023-11-24 11:07:55.835 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.71, "weighted_f1": 0.8456, "micro_f1": 0.8459, "accuracy": 0.8459}
+2023-11-24 11:07:55.977 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9901, "micro_f1": 0.9901, "accuracy": 0.9901, "time": 13.318}
+2023-11-24 11:08:09.331 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9901, "micro_f1": 0.9901, "accuracy": 0.9901, "time": 13.328}
+2023-11-24 11:08:22.694 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9906, "micro_f1": 0.9906, "accuracy": 0.9906, "time": 13.337}
+2023-11-24 11:08:36.053 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9918, "micro_f1": 0.9918, "accuracy": 0.9918, "time": 13.333}
+2023-11-24 11:08:49.407 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9919, "micro_f1": 0.9919, "accuracy": 0.9919, "time": 13.328}
+2023-11-24 11:09:02.768 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9915, "micro_f1": 0.9915, "accuracy": 0.9915, "time": 13.335}
+2023-11-24 11:09:16.128 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9926, "micro_f1": 0.9926, "accuracy": 0.9926, "time": 13.335}
+2023-11-24 11:09:29.493 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.992, "micro_f1": 0.992, "accuracy": 0.992, "time": 13.339}
+2023-11-24 11:09:42.849 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9929, "micro_f1": 0.9929, "accuracy": 0.9929, "time": 13.33}
+2023-11-24 11:09:56.205 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9942, "micro_f1": 0.9942, "accuracy": 0.9942, "time": 13.33}
+2023-11-24 11:10:09.556 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9942, "micro_f1": 0.9942, "accuracy": 0.9942, "time": 13.325}
+2023-11-24 11:10:22.916 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.994, "micro_f1": 0.994, "accuracy": 0.994, "time": 13.334}
+2023-11-24 11:10:36.262 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9947, "micro_f1": 0.9947, "accuracy": 0.9947, "time": 13.32}
+2023-11-24 11:10:49.614 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9954, "micro_f1": 0.9954, "accuracy": 0.9954, "time": 13.325}
+2023-11-24 11:11:02.829 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8463, "micro_f1": 0.8464, "accuracy": 0.8464}
+2023-11-24 11:11:02.972 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9947, "micro_f1": 0.9947, "accuracy": 0.9947, "time": 13.332}
+2023-11-24 11:11:16.337 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9957, "micro_f1": 0.9957, "accuracy": 0.9957, "time": 13.339}
+2023-11-24 11:11:29.689 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9959, "micro_f1": 0.9959, "accuracy": 0.9959, "time": 13.326}
+2023-11-24 11:11:42.915 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8467, "micro_f1": 0.8469, "accuracy": 0.8469}
+2023-11-24 11:11:43.057 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9956, "micro_f1": 0.9956, "accuracy": 0.9956, "time": 13.342}
+2023-11-24 11:11:56.410 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9958, "micro_f1": 0.9958, "accuracy": 0.9958, "time": 13.327}
+2023-11-24 11:12:09.765 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9955, "micro_f1": 0.9955, "accuracy": 0.9955, "time": 13.33}
+2023-11-24 11:12:22.968 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8468, "micro_f1": 0.847, "accuracy": 0.847}
+2023-11-24 11:12:23.109 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9961, "micro_f1": 0.9961, "accuracy": 0.9961, "time": 13.318}
+2023-11-24 11:12:36.466 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9962, "micro_f1": 0.9962, "accuracy": 0.9962, "time": 13.33}
+2023-11-24 11:12:49.812 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9964, "micro_f1": 0.9964, "accuracy": 0.9964, "time": 13.32}
+2023-11-24 11:13:03.165 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9968, "micro_f1": 0.9968, "accuracy": 0.9968, "time": 13.327}
+2023-11-24 11:13:16.382 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.847, "micro_f1": 0.8473, "accuracy": 0.8473}
+2023-11-24 11:13:16.523 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9969, "micro_f1": 0.9969, "accuracy": 0.9969, "time": 13.332}
+2023-11-24 11:13:29.877 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9973, "micro_f1": 0.9973, "accuracy": 0.9973, "time": 13.329}
+2023-11-24 11:13:43.222 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9969, "micro_f1": 0.9969, "accuracy": 0.9969, "time": 13.319}
+2023-11-24 11:13:56.453 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8475, "micro_f1": 0.8476, "accuracy": 0.8476}
+2023-11-24 11:13:56.594 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9966, "micro_f1": 0.9966, "accuracy": 0.9966, "time": 13.346}
+2023-11-24 11:14:09.940 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.32}
+2023-11-24 11:14:23.299 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.333}
+2023-11-24 11:14:36.511 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8483, "micro_f1": 0.8485, "accuracy": 0.8485}
+2023-11-24 11:14:36.652 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9973, "micro_f1": 0.9973, "accuracy": 0.9973, "time": 13.327}
+2023-11-24 11:14:50.021 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.343}
+2023-11-24 11:15:26.436 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 6.09, "weighted_f1": 0.0977, "micro_f1": 0.1017, "accuracy": 0.1017}
+2023-11-24 11:15:26.570 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.87, "weighted_f1": 0.084, "micro_f1": 0.0877, "accuracy": 0.0877, "time": 13.318}
+2023-11-24 11:15:39.771 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 5.33, "weighted_f1": 0.1173, "micro_f1": 0.119, "accuracy": 0.119}
+2023-11-24 11:15:39.909 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.16, "weighted_f1": 0.0974, "micro_f1": 0.1003, "accuracy": 0.1003, "time": 13.313}
+2023-11-24 11:15:53.137 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 4.13, "weighted_f1": 0.1534, "micro_f1": 0.1547, "accuracy": 0.1547}
+2023-11-24 11:15:53.276 | INFO     | utils.processor:update_metric:228 - train: {"loss": 4.15, "weighted_f1": 0.1231, "micro_f1": 0.1248, "accuracy": 0.1248, "time": 13.34}
+2023-11-24 11:16:06.512 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 3.36, "weighted_f1": 0.1871, "micro_f1": 0.1878, "accuracy": 0.1878}
+2023-11-24 11:16:06.653 | INFO     | utils.processor:update_metric:228 - train: {"loss": 3.22, "weighted_f1": 0.1629, "micro_f1": 0.1642, "accuracy": 0.1642, "time": 13.351}
+2023-11-24 11:16:19.877 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.76, "weighted_f1": 0.2487, "micro_f1": 0.2482, "accuracy": 0.2482}
+2023-11-24 11:16:20.017 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.6, "weighted_f1": 0.2158, "micro_f1": 0.2174, "accuracy": 0.2174, "time": 13.339}
+2023-11-24 11:16:33.227 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.24, "weighted_f1": 0.3186, "micro_f1": 0.3179, "accuracy": 0.3179}
+2023-11-24 11:16:33.368 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.17, "weighted_f1": 0.2821, "micro_f1": 0.2843, "accuracy": 0.2843, "time": 13.325}
+2023-11-24 11:16:46.591 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.94, "weighted_f1": 0.3888, "micro_f1": 0.3906, "accuracy": 0.3906}
+2023-11-24 11:16:46.732 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.86, "weighted_f1": 0.3578, "micro_f1": 0.3599, "accuracy": 0.3599, "time": 13.337}
+2023-11-24 11:16:59.933 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.99, "weighted_f1": 0.454, "micro_f1": 0.4554, "accuracy": 0.4554}
+2023-11-24 11:17:00.075 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.63, "weighted_f1": 0.4304, "micro_f1": 0.4325, "accuracy": 0.4325, "time": 13.318}
+2023-11-24 11:17:13.313 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.56, "weighted_f1": 0.5128, "micro_f1": 0.5134, "accuracy": 0.5134}
+2023-11-24 11:17:13.453 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.45, "weighted_f1": 0.489, "micro_f1": 0.491, "accuracy": 0.491, "time": 13.352}
+2023-11-24 11:17:26.699 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.36, "weighted_f1": 0.5589, "micro_f1": 0.5602, "accuracy": 0.5602}
+2023-11-24 11:17:26.840 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.32, "weighted_f1": 0.5378, "micro_f1": 0.5393, "accuracy": 0.5393, "time": 13.361}
+2023-11-24 11:17:40.076 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.23, "weighted_f1": 0.59, "micro_f1": 0.5911, "accuracy": 0.5911}
+2023-11-24 11:17:40.216 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.21, "weighted_f1": 0.5779, "micro_f1": 0.5789, "accuracy": 0.5789, "time": 13.351}
+2023-11-24 11:17:53.462 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.37, "weighted_f1": 0.6173, "micro_f1": 0.6162, "accuracy": 0.6162}
+2023-11-24 11:17:53.602 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.1, "weighted_f1": 0.6149, "micro_f1": 0.6158, "accuracy": 0.6158, "time": 13.36}
+2023-11-24 11:18:06.838 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.16, "weighted_f1": 0.6492, "micro_f1": 0.6498, "accuracy": 0.6498}
+2023-11-24 11:18:06.978 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.02, "weighted_f1": 0.6461, "micro_f1": 0.6469, "accuracy": 0.6469, "time": 13.35}
+2023-11-24 11:18:20.215 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.14, "weighted_f1": 0.6659, "micro_f1": 0.6673, "accuracy": 0.6673}
+2023-11-24 11:18:20.356 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.96, "weighted_f1": 0.6669, "micro_f1": 0.6675, "accuracy": 0.6675, "time": 13.352}
+2023-11-24 11:18:33.563 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 1.07, "weighted_f1": 0.6893, "micro_f1": 0.69, "accuracy": 0.69}
+2023-11-24 11:18:33.704 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.9, "weighted_f1": 0.6897, "micro_f1": 0.6901, "accuracy": 0.6901, "time": 13.322}
+2023-11-24 11:18:46.960 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.88, "weighted_f1": 0.7135, "micro_f1": 0.7142, "accuracy": 0.7142}
+2023-11-24 11:18:47.102 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.84, "weighted_f1": 0.7113, "micro_f1": 0.7117, "accuracy": 0.7117, "time": 13.372}
+2023-11-24 11:19:00.325 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.98, "weighted_f1": 0.7186, "micro_f1": 0.7191, "accuracy": 0.7191}
+2023-11-24 11:19:00.466 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.78, "weighted_f1": 0.7299, "micro_f1": 0.7303, "accuracy": 0.7303, "time": 13.338}
+2023-11-24 11:19:13.679 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.8, "weighted_f1": 0.7366, "micro_f1": 0.7374, "accuracy": 0.7374}
+2023-11-24 11:19:13.821 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.75, "weighted_f1": 0.7461, "micro_f1": 0.7466, "accuracy": 0.7466, "time": 13.329}
+2023-11-24 11:19:27.029 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.79, "weighted_f1": 0.7483, "micro_f1": 0.7493, "accuracy": 0.7493}
+2023-11-24 11:19:27.170 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.71, "weighted_f1": 0.7565, "micro_f1": 0.7568, "accuracy": 0.7568, "time": 13.323}
+2023-11-24 11:19:40.400 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.83, "weighted_f1": 0.757, "micro_f1": 0.7572, "accuracy": 0.7572}
+2023-11-24 11:19:40.542 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.67, "weighted_f1": 0.7727, "micro_f1": 0.773, "accuracy": 0.773, "time": 13.347}
+2023-11-24 11:19:53.742 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.7708, "micro_f1": 0.7721, "accuracy": 0.7721}
+2023-11-24 11:19:53.882 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.64, "weighted_f1": 0.7835, "micro_f1": 0.7838, "accuracy": 0.7838, "time": 13.314}
+2023-11-24 11:20:07.094 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.7, "weighted_f1": 0.7744, "micro_f1": 0.775, "accuracy": 0.775}
+2023-11-24 11:20:07.236 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.6, "weighted_f1": 0.7938, "micro_f1": 0.7942, "accuracy": 0.7942, "time": 13.327}
+2023-11-24 11:20:20.429 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.74, "weighted_f1": 0.7777, "micro_f1": 0.778, "accuracy": 0.778}
+2023-11-24 11:20:20.570 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.56, "weighted_f1": 0.8043, "micro_f1": 0.8045, "accuracy": 0.8045, "time": 13.308}
+2023-11-24 11:20:33.800 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.73, "weighted_f1": 0.7882, "micro_f1": 0.789, "accuracy": 0.789}
+2023-11-24 11:20:33.941 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.53, "weighted_f1": 0.8155, "micro_f1": 0.8157, "accuracy": 0.8157, "time": 13.346}
+2023-11-24 11:20:47.157 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.6, "weighted_f1": 0.7952, "micro_f1": 0.7961, "accuracy": 0.7961}
+2023-11-24 11:20:47.298 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.5, "weighted_f1": 0.8234, "micro_f1": 0.8236, "accuracy": 0.8236, "time": 13.33}
+2023-11-24 11:21:00.528 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.58, "weighted_f1": 0.8064, "micro_f1": 0.8072, "accuracy": 0.8072}
+2023-11-24 11:21:00.670 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.48, "weighted_f1": 0.8341, "micro_f1": 0.8343, "accuracy": 0.8343, "time": 13.347}
+2023-11-24 11:21:14.029 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.44, "weighted_f1": 0.8446, "micro_f1": 0.8447, "accuracy": 0.8447, "time": 13.334}
+2023-11-24 11:21:27.274 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.56, "weighted_f1": 0.814, "micro_f1": 0.8146, "accuracy": 0.8146}
+2023-11-24 11:21:27.415 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.42, "weighted_f1": 0.8517, "micro_f1": 0.8519, "accuracy": 0.8519, "time": 13.36}
+2023-11-24 11:21:40.618 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.818, "micro_f1": 0.8183, "accuracy": 0.8183}
+2023-11-24 11:21:40.759 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.4, "weighted_f1": 0.8597, "micro_f1": 0.8598, "accuracy": 0.8598, "time": 13.318}
+2023-11-24 11:21:53.971 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8243, "micro_f1": 0.8249, "accuracy": 0.8249}
+2023-11-24 11:21:54.112 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.37, "weighted_f1": 0.8703, "micro_f1": 0.8704, "accuracy": 0.8704, "time": 13.327}
+2023-11-24 11:22:07.301 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.54, "weighted_f1": 0.8251, "micro_f1": 0.8254, "accuracy": 0.8254}
+2023-11-24 11:22:07.442 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.35, "weighted_f1": 0.8777, "micro_f1": 0.8778, "accuracy": 0.8778, "time": 13.304}
+2023-11-24 11:22:20.786 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.33, "weighted_f1": 0.8855, "micro_f1": 0.8856, "accuracy": 0.8856, "time": 13.318}
+2023-11-24 11:22:33.976 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8268, "micro_f1": 0.8269, "accuracy": 0.8269}
+2023-11-24 11:22:34.118 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.3, "weighted_f1": 0.8929, "micro_f1": 0.8929, "accuracy": 0.8929, "time": 13.307}
+2023-11-24 11:22:47.364 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.827, "micro_f1": 0.8275, "accuracy": 0.8275}
+2023-11-24 11:22:47.508 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.28, "weighted_f1": 0.9011, "micro_f1": 0.9012, "accuracy": 0.9012, "time": 13.363}
+2023-11-24 11:23:00.732 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8305, "micro_f1": 0.8313, "accuracy": 0.8313}
+2023-11-24 11:23:00.874 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.27, "weighted_f1": 0.9071, "micro_f1": 0.9071, "accuracy": 0.9071, "time": 13.34}
+2023-11-24 11:23:14.104 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.56, "weighted_f1": 0.8306, "micro_f1": 0.831, "accuracy": 0.831}
+2023-11-24 11:23:14.246 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.24, "weighted_f1": 0.9143, "micro_f1": 0.9143, "accuracy": 0.9143, "time": 13.346}
+2023-11-24 11:23:27.469 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "weighted_f1": 0.8315, "micro_f1": 0.8317, "accuracy": 0.8317}
+2023-11-24 11:23:27.611 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.23, "weighted_f1": 0.9208, "micro_f1": 0.9208, "accuracy": 0.9208, "time": 13.339}
+2023-11-24 11:23:40.825 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.56, "weighted_f1": 0.8332, "micro_f1": 0.8333, "accuracy": 0.8333}
+2023-11-24 11:23:40.966 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.21, "weighted_f1": 0.926, "micro_f1": 0.926, "accuracy": 0.926, "time": 13.33}
+2023-11-24 11:23:54.315 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.2, "weighted_f1": 0.9309, "micro_f1": 0.9309, "accuracy": 0.9309, "time": 13.323}
+2023-11-24 11:24:07.670 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.18, "weighted_f1": 0.9364, "micro_f1": 0.9364, "accuracy": 0.9364, "time": 13.329}
+2023-11-24 11:24:20.876 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.8334, "micro_f1": 0.8334, "accuracy": 0.8334}
+2023-11-24 11:24:21.019 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.17, "weighted_f1": 0.9415, "micro_f1": 0.9415, "accuracy": 0.9415, "time": 13.323}
+2023-11-24 11:24:34.216 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.59, "weighted_f1": 0.8364, "micro_f1": 0.8368, "accuracy": 0.8368}
+2023-11-24 11:24:34.356 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.16, "weighted_f1": 0.9451, "micro_f1": 0.9451, "accuracy": 0.9451, "time": 13.311}
+2023-11-24 11:24:47.696 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.15, "weighted_f1": 0.948, "micro_f1": 0.948, "accuracy": 0.948, "time": 13.314}
+2023-11-24 11:25:01.039 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.14, "weighted_f1": 0.9514, "micro_f1": 0.9514, "accuracy": 0.9514, "time": 13.316}
+2023-11-24 11:25:14.378 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.13, "weighted_f1": 0.9544, "micro_f1": 0.9544, "accuracy": 0.9544, "time": 13.313}
+2023-11-24 11:25:27.582 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.61, "weighted_f1": 0.8386, "micro_f1": 0.839, "accuracy": 0.839}
+2023-11-24 11:25:27.725 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "weighted_f1": 0.9601, "micro_f1": 0.9601, "accuracy": 0.9601, "time": 13.322}
+2023-11-24 11:25:41.065 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "weighted_f1": 0.963, "micro_f1": 0.963, "accuracy": 0.963, "time": 13.314}
+2023-11-24 11:25:54.258 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.63, "weighted_f1": 0.8403, "micro_f1": 0.8403, "accuracy": 0.8403}
+2023-11-24 11:25:54.401 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.1, "weighted_f1": 0.9644, "micro_f1": 0.9644, "accuracy": 0.9644, "time": 13.309}
+2023-11-24 11:26:07.730 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.1, "weighted_f1": 0.9677, "micro_f1": 0.9677, "accuracy": 0.9677, "time": 13.304}
+2023-11-24 11:26:21.068 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.09, "weighted_f1": 0.9691, "micro_f1": 0.9691, "accuracy": 0.9691, "time": 13.311}
+2023-11-24 11:26:34.266 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.65, "weighted_f1": 0.8411, "micro_f1": 0.8412, "accuracy": 0.8412}
+2023-11-24 11:26:34.407 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.09, "weighted_f1": 0.9716, "micro_f1": 0.9716, "accuracy": 0.9716, "time": 13.314}
+2023-11-24 11:26:47.828 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.08, "weighted_f1": 0.9732, "micro_f1": 0.9732, "accuracy": 0.9732, "time": 13.395}
+2023-11-24 11:27:01.025 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.65, "weighted_f1": 0.8418, "micro_f1": 0.8422, "accuracy": 0.8422}
+2023-11-24 11:27:01.166 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.08, "weighted_f1": 0.9747, "micro_f1": 0.9747, "accuracy": 0.9747, "time": 13.312}
+2023-11-24 11:27:14.509 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.07, "weighted_f1": 0.9775, "micro_f1": 0.9775, "accuracy": 0.9775, "time": 13.317}
+2023-11-24 11:27:27.871 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.07, "weighted_f1": 0.978, "micro_f1": 0.978, "accuracy": 0.978, "time": 13.336}
+2023-11-24 11:27:41.226 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.979, "micro_f1": 0.979, "accuracy": 0.979, "time": 13.329}
+2023-11-24 11:27:54.565 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9811, "micro_f1": 0.9811, "accuracy": 0.9811, "time": 13.314}
+2023-11-24 11:28:07.776 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.68, "weighted_f1": 0.8419, "micro_f1": 0.8418, "accuracy": 0.8418}
+2023-11-24 11:28:07.918 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.06, "weighted_f1": 0.9814, "micro_f1": 0.9814, "accuracy": 0.9814, "time": 13.326}
+2023-11-24 11:28:21.267 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9827, "micro_f1": 0.9827, "accuracy": 0.9827, "time": 13.324}
+2023-11-24 11:28:34.472 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.67, "weighted_f1": 0.8468, "micro_f1": 0.847, "accuracy": 0.847}
+2023-11-24 11:28:34.614 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9836, "micro_f1": 0.9836, "accuracy": 0.9836, "time": 13.32}
+2023-11-24 11:28:47.962 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9851, "micro_f1": 0.9851, "accuracy": 0.9851, "time": 13.322}
+2023-11-24 11:29:01.289 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9848, "micro_f1": 0.9848, "accuracy": 0.9848, "time": 13.301}
+2023-11-24 11:29:14.628 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.05, "weighted_f1": 0.9858, "micro_f1": 0.9858, "accuracy": 0.9858, "time": 13.314}
+2023-11-24 11:29:27.967 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9869, "micro_f1": 0.9869, "accuracy": 0.9869, "time": 13.312}
+2023-11-24 11:29:41.312 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9878, "micro_f1": 0.9878, "accuracy": 0.9878, "time": 13.319}
+2023-11-24 11:29:54.636 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9879, "micro_f1": 0.9879, "accuracy": 0.9879, "time": 13.298}
+2023-11-24 11:30:07.972 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.04, "weighted_f1": 0.9897, "micro_f1": 0.9897, "accuracy": 0.9897, "time": 13.311}
+2023-11-24 11:30:21.308 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.99, "micro_f1": 0.99, "accuracy": 0.99, "time": 13.31}
+2023-11-24 11:30:34.652 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9901, "micro_f1": 0.9901, "accuracy": 0.9901, "time": 13.319}
+2023-11-24 11:30:47.999 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9911, "micro_f1": 0.9911, "accuracy": 0.9911, "time": 13.32}
+2023-11-24 11:31:01.353 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9905, "micro_f1": 0.9905, "accuracy": 0.9905, "time": 13.328}
+2023-11-24 11:31:14.561 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.71, "weighted_f1": 0.8476, "micro_f1": 0.8477, "accuracy": 0.8477}
+2023-11-24 11:31:14.703 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9918, "micro_f1": 0.9918, "accuracy": 0.9918, "time": 13.325}
+2023-11-24 11:31:28.050 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9919, "micro_f1": 0.9919, "accuracy": 0.9919, "time": 13.321}
+2023-11-24 11:31:41.395 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9919, "micro_f1": 0.9919, "accuracy": 0.9919, "time": 13.319}
+2023-11-24 11:31:54.754 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.03, "weighted_f1": 0.9923, "micro_f1": 0.9923, "accuracy": 0.9923, "time": 13.333}
+2023-11-24 11:32:08.112 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.993, "micro_f1": 0.993, "accuracy": 0.993, "time": 13.333}
+2023-11-24 11:32:21.469 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9936, "micro_f1": 0.9936, "accuracy": 0.9936, "time": 13.331}
+2023-11-24 11:32:34.689 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.71, "weighted_f1": 0.8477, "micro_f1": 0.8482, "accuracy": 0.8482}
+2023-11-24 11:32:34.831 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9935, "micro_f1": 0.9935, "accuracy": 0.9935, "time": 13.336}
+2023-11-24 11:32:48.193 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9941, "micro_f1": 0.9941, "accuracy": 0.9941, "time": 13.336}
+2023-11-24 11:33:01.540 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9941, "micro_f1": 0.9941, "accuracy": 0.9941, "time": 13.321}
+2023-11-24 11:33:14.908 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9948, "micro_f1": 0.9948, "accuracy": 0.9948, "time": 13.342}
+2023-11-24 11:33:28.264 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9946, "micro_f1": 0.9946, "accuracy": 0.9946, "time": 13.33}
+2023-11-24 11:33:41.623 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9953, "micro_f1": 0.9953, "accuracy": 0.9953, "time": 13.332}
+2023-11-24 11:33:54.978 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9956, "micro_f1": 0.9956, "accuracy": 0.9956, "time": 13.33}
+2023-11-24 11:34:08.199 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8486, "micro_f1": 0.8488, "accuracy": 0.8488}
+2023-11-24 11:34:08.341 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9959, "micro_f1": 0.9959, "accuracy": 0.9959, "time": 13.337}
+2023-11-24 11:34:21.676 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.996, "micro_f1": 0.996, "accuracy": 0.996, "time": 13.309}
+2023-11-24 11:34:35.032 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9959, "micro_f1": 0.9959, "accuracy": 0.9959, "time": 13.33}
+2023-11-24 11:34:48.385 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9964, "micro_f1": 0.9964, "accuracy": 0.9964, "time": 13.327}
+2023-11-24 11:35:01.746 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9963, "micro_f1": 0.9963, "accuracy": 0.9963, "time": 13.335}
+2023-11-24 11:35:15.115 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9963, "micro_f1": 0.9963, "accuracy": 0.9963, "time": 13.343}
+2023-11-24 11:35:28.477 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.02, "weighted_f1": 0.9966, "micro_f1": 0.9966, "accuracy": 0.9966, "time": 13.336}
+2023-11-24 11:35:41.862 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.36}
+2023-11-24 11:35:55.213 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.324}
+2023-11-24 11:36:08.558 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9969, "micro_f1": 0.9969, "accuracy": 0.9969, "time": 13.319}
+2023-11-24 11:36:21.771 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.71, "weighted_f1": 0.849, "micro_f1": 0.8493, "accuracy": 0.8493}
+2023-11-24 11:36:21.911 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9972, "micro_f1": 0.9972, "accuracy": 0.9972, "time": 13.328}
+2023-11-24 11:36:35.112 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.71, "weighted_f1": 0.8493, "micro_f1": 0.8496, "accuracy": 0.8496}
+2023-11-24 11:36:35.253 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9971, "micro_f1": 0.9971, "accuracy": 0.9971, "time": 13.316}
+2023-11-24 11:36:48.464 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.72, "weighted_f1": 0.8494, "micro_f1": 0.8497, "accuracy": 0.8497}
+2023-11-24 11:36:48.604 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.997, "micro_f1": 0.997, "accuracy": 0.997, "time": 13.325}
+2023-11-24 11:37:01.950 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9973, "micro_f1": 0.9973, "accuracy": 0.9973, "time": 13.321}
+2023-11-24 11:37:15.284 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9973, "micro_f1": 0.9973, "accuracy": 0.9973, "time": 13.308}
+2023-11-24 11:37:28.630 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.01, "weighted_f1": 0.9976, "micro_f1": 0.9976, "accuracy": 0.9976, "time": 13.32}
+2023-11-24 11:38:05.074 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 6.31, "weighted_f1": 0.0919, "micro_f1": 0.0949, "accuracy": 0.0949}
+2023-11-24 11:38:05.208 | INFO     | utils.processor:update_metric:228 - train: {"loss": 6.05, "weighted_f1": 0.0793, "micro_f1": 0.0829, "accuracy": 0.0829, "time": 13.351}
+2023-11-24 11:38:18.441 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 5.56, "weighted_f1": 0.1096, "micro_f1": 0.1135, "accuracy": 0.1135}
+2023-11-24 11:38:18.582 | INFO     | utils.processor:update_metric:228 - train: {"loss": 5.35, "weighted_f1": 0.0943, "micro_f1": 0.0969, "accuracy": 0.0969, "time": 13.348}
+2023-11-24 11:38:31.834 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 4.25, "weighted_f1": 0.1403, "micro_f1": 0.1439, "accuracy": 0.1439}
+2023-11-24 11:38:31.973 | INFO     | utils.processor:update_metric:228 - train: {"loss": 4.32, "weighted_f1": 0.1166, "micro_f1": 0.1181, "accuracy": 0.1181, "time": 13.366}
+2023-11-24 11:38:45.219 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 3.36, "weighted_f1": 0.1854, "micro_f1": 0.1886, "accuracy": 0.1886}
+2023-11-24 11:38:45.359 | INFO     | utils.processor:update_metric:228 - train: {"loss": 3.37, "weighted_f1": 0.1538, "micro_f1": 0.1543, "accuracy": 0.1543, "time": 13.36}
+2023-11-24 11:38:58.616 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.71, "weighted_f1": 0.2388, "micro_f1": 0.244, "accuracy": 0.244}
+2023-11-24 11:38:58.756 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.7, "weighted_f1": 0.1989, "micro_f1": 0.1996, "accuracy": 0.1996, "time": 13.372}
+2023-11-24 11:39:12.003 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.52, "weighted_f1": 0.2938, "micro_f1": 0.2999, "accuracy": 0.2999}
+2023-11-24 11:39:12.143 | INFO     | utils.processor:update_metric:228 - train: {"loss": 2.25, "weighted_f1": 0.2665, "micro_f1": 0.2679, "accuracy": 0.2679, "time": 13.361}
+2023-11-24 11:39:25.405 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 2.21, "weighted_f1": 0.3647, "micro_f1": 0.3679, "accuracy": 0.3679}
+2023-11-24 11:39:25.550 | INFO     | utils.processor:update_metric:228 - train: {"loss": 1.96, "weighted_f1": 0.3354, "micro_f1": 0.338, "accuracy": 0.338, "time": 13.381}

@@ -1,0 +1,19 @@
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 8111, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6795, "te_mf1": 0.6724}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 7735, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6764, "te_mf1": 0.6699}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 7808, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6704, "te_mf1": 0.6679}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 6381, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6653, "te_mf1": 0.6683}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 9952, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6748, "te_mf1": 0.6737}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 9224, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6817, "te_mf1": 0.6699}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 3363, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6689, "te_mf1": 0.6642}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 789, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6745, "te_mf1": 0.6653}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 7850, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6854, "te_mf1": 0.6624}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 9631, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6661, "te_mf1": 0.6704}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 7514, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.663, "te_mf1": 0.6651}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 291, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6791, "te_mf1": 0.6764}} ***
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 7756, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6767, "te_mf1": 0.6719}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 2510, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6803, "te_mf1": 0.6696}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 8266, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6765, "te_mf1": 0.6677}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 823, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6736, "te_mf1": 0.6696}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 5526, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6678, "te_mf1": 0.6616}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 2024, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6702, "te_mf1": 0.6657}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 40, "dr": 0.3, "seed": 7719, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.671, "te_mf1": 0.6688}}

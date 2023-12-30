@@ -1,0 +1,4 @@
+2023-11-27 09:12:37.343 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.6, "dice": 0.0, "iou": 0.0, "time": 30.448}
+2023-11-27 09:13:07.620 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.6, "dice": 0.0, "iou": 0.0, "time": 30.231}
+2023-11-27 09:13:37.888 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.57, "dice": 0.0, "iou": 0.0, "time": 30.219}
+2023-11-27 09:14:07.942 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.55, "dice": 0.0, "iou": 0.0, "time": 30.005}

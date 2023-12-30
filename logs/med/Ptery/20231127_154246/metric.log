@@ -1,0 +1,56 @@
+2023-11-27 15:43:25.154 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.55, "dice": 0.51, "iou": 0.34}
+2023-11-27 15:44:02.388 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.55, "dice": 0.5, "iou": 0.34}
+2023-11-27 15:44:03.411 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.63, "dice": 0.39, "iou": 0.24, "time": 67.755}
+2023-11-27 15:44:33.680 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.63, "dice": 0.39, "iou": 0.24, "time": 30.251}
+2023-11-27 15:45:03.782 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.56, "dice": 0.48, "iou": 0.32, "time": 30.08}
+2023-11-27 15:45:33.680 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.5, "dice": 0.56, "iou": 0.39, "time": 29.875}
+2023-11-27 15:46:03.592 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.44, "dice": 0.63, "iou": 0.46, "time": 29.887}
+2023-11-27 15:46:33.691 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.4, "dice": 0.68, "iou": 0.51, "time": 30.077}
+2023-11-27 15:47:03.475 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.35, "dice": 0.73, "iou": 0.57, "time": 29.76}
+2023-11-27 15:47:33.211 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.31, "dice": 0.77, "iou": 0.63, "time": 29.711}
+2023-11-27 15:48:03.511 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.27, "dice": 0.82, "iou": 0.7, "time": 30.278}
+2023-11-27 15:48:33.696 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.24, "dice": 0.86, "iou": 0.75, "time": 30.163}
+2023-11-27 15:49:03.377 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.21, "dice": 0.89, "iou": 0.8, "time": 29.66}
+2023-11-27 15:49:33.891 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.54, "dice": 0.56, "iou": 0.39}
+2023-11-27 15:50:11.482 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.54, "dice": 0.55, "iou": 0.38}
+2023-11-27 15:50:12.476 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.62, "dice": 0.43, "iou": 0.27, "time": 68.377}
+2023-11-27 15:50:43.038 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.62, "dice": 0.43, "iou": 0.27, "time": 30.541}
+2023-11-27 15:51:13.658 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.55, "dice": 0.5, "iou": 0.34, "time": 30.595}
+2023-11-27 15:51:44.009 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.49, "dice": 0.56, "iou": 0.39, "time": 30.326}
+2023-11-27 15:52:13.834 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.51, "dice": 0.59, "iou": 0.42}
+2023-11-27 15:52:51.579 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.52, "dice": 0.59, "iou": 0.42}
+2023-11-27 15:52:52.592 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.43, "dice": 0.61, "iou": 0.44, "time": 68.561}
+2023-11-27 15:53:23.216 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.38, "dice": 0.67, "iou": 0.5, "time": 30.597}
+2023-11-27 15:53:53.515 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.34, "dice": 0.73, "iou": 0.58, "time": 30.274}
+2023-11-27 15:54:23.777 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.3, "dice": 0.78, "iou": 0.65, "time": 30.238}
+2023-11-27 15:54:54.057 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.26, "dice": 0.83, "iou": 0.72, "time": 30.256}
+2023-11-27 15:55:24.339 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.24, "dice": 0.87, "iou": 0.78, "time": 30.257}
+2023-11-27 15:55:54.858 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.21, "dice": 0.9, "iou": 0.82, "time": 30.492}
+2023-11-27 15:56:23.982 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.48, "dice": 0.6, "iou": 0.43}
+2023-11-27 15:57:01.376 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.48, "dice": 0.6, "iou": 0.43}
+2023-11-27 15:57:02.364 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.19, "dice": 0.92, "iou": 0.86, "time": 67.482}
+2023-11-27 15:57:31.898 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.44, "dice": 0.64, "iou": 0.47}
+2023-11-27 15:58:09.042 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.45, "dice": 0.63, "iou": 0.46}
+2023-11-27 15:58:10.001 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.17, "dice": 0.94, "iou": 0.88, "time": 67.615}
+2023-11-27 15:58:39.241 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.4, "dice": 0.67, "iou": 0.51}
+2023-11-27 15:59:16.916 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.41, "dice": 0.67, "iou": 0.5}
+2023-11-27 15:59:17.886 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.16, "dice": 0.95, "iou": 0.9, "time": 67.863}
+2023-11-27 15:59:47.024 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.37, "dice": 0.71, "iou": 0.55}
+2023-11-27 16:00:24.471 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.38, "dice": 0.7, "iou": 0.54}
+2023-11-27 16:00:25.436 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.15, "dice": 0.95, "iou": 0.91, "time": 67.525}
+2023-11-27 16:00:54.756 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.36, "dice": 0.74, "iou": 0.58}
+2023-11-27 16:01:32.322 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.37, "dice": 0.72, "iou": 0.57}
+2023-11-27 16:01:33.288 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.14, "dice": 0.96, "iou": 0.93, "time": 67.829}
+2023-11-27 16:02:02.516 | INFO     | utils.processor:update_metric:192 - valid_eval: {"loss": 0.35, "dice": 0.75, "iou": 0.6}
+2023-11-27 16:02:40.236 | INFO     | utils.processor:update_metric:218 - test_test_test: {"loss": 0.36, "dice": 0.74, "iou": 0.59}
+2023-11-27 16:02:41.152 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.14, "dice": 0.97, "iou": 0.93, "time": 67.842}
+2023-11-27 16:03:11.657 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.13, "dice": 0.97, "iou": 0.94, "time": 30.482}
+2023-11-27 16:03:42.182 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "dice": 0.97, "iou": 0.95, "time": 30.503}
+2023-11-27 16:04:12.686 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "dice": 0.97, "iou": 0.95, "time": 30.481}
+2023-11-27 16:04:43.209 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.12, "dice": 0.98, "iou": 0.95, "time": 30.501}
+2023-11-27 16:05:13.668 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "dice": 0.98, "iou": 0.96, "time": 30.433}
+2023-11-27 16:05:44.185 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "dice": 0.98, "iou": 0.96, "time": 30.491}
+2023-11-27 16:06:14.649 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "dice": 0.98, "iou": 0.96, "time": 30.44}
+2023-11-27 16:06:44.913 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "dice": 0.98, "iou": 0.96, "time": 30.241}
+2023-11-27 16:07:15.246 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "dice": 0.98, "iou": 0.96, "time": 30.31}
+2023-11-27 16:07:45.953 | INFO     | utils.processor:update_metric:228 - train: {"loss": 0.11, "dice": 0.98, "iou": 0.96, "time": 30.685}

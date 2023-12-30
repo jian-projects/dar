@@ -1,0 +1,13 @@
+2023-11-24 10:20:42.562 | INFO     | utils.processor:update_metric:229 - train_loss: 3.82
+2023-11-24 10:20:57.447 | INFO     | utils.processor:update_metric:229 - train_loss: 1.6
+2023-11-24 10:21:12.221 | INFO     | utils.processor:update_metric:229 - train_loss: 1.04
+2023-11-24 10:21:27.050 | INFO     | utils.processor:update_metric:229 - train_loss: 0.74
+2023-11-24 10:21:41.870 | INFO     | utils.processor:update_metric:229 - train_loss: 0.58
+2023-11-24 10:21:56.727 | INFO     | utils.processor:update_metric:229 - train_loss: 0.47
+2023-11-24 10:22:11.735 | INFO     | utils.processor:update_metric:229 - train_loss: 0.41
+2023-11-24 10:22:26.720 | INFO     | utils.processor:update_metric:229 - train_loss: 0.38
+2023-11-24 10:22:40.320 | INFO     | utils.processor:update_metric:229 - train_loss: 0.36
+2023-11-24 10:22:53.882 | INFO     | utils.processor:update_metric:229 - train_loss: 0.34
+2023-11-24 10:23:07.426 | INFO     | utils.processor:update_metric:229 - train_loss: 0.32
+2023-11-24 10:23:20.953 | INFO     | utils.processor:update_metric:229 - train_loss: 0.3
+2023-11-24 10:23:34.478 | INFO     | utils.processor:update_metric:229 - train_loss: 0.29

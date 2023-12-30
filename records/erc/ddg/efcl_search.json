@@ -1,0 +1,1 @@
+{"params": {"e": 6, "es": 2, "lr": 0.0005, "lr_pre": 5e-06, "bz": 12, "dr": 0.3, "seed": 2076, "fn_rate": 0.6}, "metric": {"stop": 4, "tv_mf1": 0.6119, "te_mf1": 0.597}}

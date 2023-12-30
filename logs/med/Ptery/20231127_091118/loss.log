@@ -1,0 +1,4 @@
+2023-11-27 09:12:37.344 | INFO     | utils.processor:update_metric:229 - train_loss: 0.6
+2023-11-27 09:13:07.620 | INFO     | utils.processor:update_metric:229 - train_loss: 0.6
+2023-11-27 09:13:37.889 | INFO     | utils.processor:update_metric:229 - train_loss: 0.57
+2023-11-27 09:14:07.942 | INFO     | utils.processor:update_metric:229 - train_loss: 0.55

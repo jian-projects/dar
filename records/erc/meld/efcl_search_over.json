@@ -1,0 +1,9 @@
+0.5 比率
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 7166, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.6689, "te_mf1": 0.6691}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 6793, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.6692, "te_mf1": 0.6586}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 9616, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.6661, "te_mf1": 0.661}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 8668, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.6695, "te_mf1": 0.6659}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 7866, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.6605, "te_mf1": 0.6693}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 1795, "cl": 0.3}, "metric": {"stop": 3, "tv_mf1": 0.6739, "te_mf1": 0.6791}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 2791, "cl": 0.3}, "metric": {"stop": 3, "tv_mf1": 0.6699, "te_mf1": 0.6654}}
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 24, "dr": 0.3, "seed": 5935, "cl": 0.3}, "metric": {"stop": 5, "tv_mf1": 0.673, "te_mf1": 0.6748}}

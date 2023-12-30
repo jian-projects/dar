@@ -1,0 +1,16 @@
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 8965, "cl": 0.1}, "metric": {"stop": 6, "tv_mf1": 0.6084, "te_mf1": 0.6283}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 9151, "cl": 0.1}, "metric": {"stop": 2, "tv_mf1": 0.5988, "te_mf1": 0.6243}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 8942, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.606, "te_mf1": 0.6105}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2751, "cl": 0.1}, "metric": {"stop": 7, "tv_mf1": 0.6117, "te_mf1": 0.62}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 3528, "cl": 0.1}, "metric": {"stop": 9, "tv_mf1": 0.5864, "te_mf1": 0.6141}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 7066, "cl": 0.1}, "metric": {"stop": 9, "tv_mf1": 0.6004, "te_mf1": 0.6154}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1171, "cl": 0.1}, "metric": {"stop": 6, "tv_mf1": 0.5976, "te_mf1": 0.6203}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 6579, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.5851, "te_mf1": 0.6044}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2424, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.5952, "te_mf1": 0.6224}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 669, "cl": 0.1}, "metric": {"stop": 7, "tv_mf1": 0.5869, "te_mf1": 0.6197}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 9550, "cl": 0.1}, "metric": {"stop": 6, "tv_mf1": 0.6157, "te_mf1": 0.6189}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 3372, "cl": 0.1}, "metric": {"stop": 9, "tv_mf1": 0.5963, "te_mf1": 0.6237}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 9975, "cl": 0.1}, "metric": {"stop": 8, "tv_mf1": 0.6023, "te_mf1": 0.6198}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1552, "cl": 0.1}, "metric": {"stop": 6, "tv_mf1": 0.6082, "te_mf1": 0.6242}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2454, "cl": 0.1}, "metric": {"stop": 6, "tv_mf1": 0.5912, "te_mf1": 0.6214}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 9350, "cl": 0.1}, "metric": {"stop": 8, "tv_mf1": 0.6054, "te_mf1": 0.6245}}

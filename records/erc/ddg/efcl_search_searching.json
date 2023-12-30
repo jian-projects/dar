@@ -1,0 +1,40 @@
+
+6 2 0.8 0.2 160 4 full_mask add_cls step_1.25
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.1, "seed": 7020, "cl": 0.5}, "metric": {"stop": 5, "tv_mf1": 0.606, "te_mf1": 0.596}}
+Step:4359	{"metric": {"valid_eval": {"macro_f1": 0.5502, "micro_f1": 0.583, "accuracy": 0.9062}}, "step": 4359}
+Step:4359	{"metric": {"test_test_test": {"macro_f1": 0.5151, "micro_f1": 0.5421, "accuracy": 0.8549}}, "step": 4359}
+Step:5449	{"metric": {"train": {"macro_f1": 0.463, "micro_f1": 0.4689, "accuracy": 0.8519}}, "step": 5449}
+Step:6974	{"metric": {"valid_eval": {"macro_f1": 0.5659, "micro_f1": 0.6026, "accuracy": 0.909}}, "step": 6974}
+Step:6974	{"metric": {"test_test_test": {"macro_f1": 0.5405, "micro_f1": 0.5707, "accuracy": 0.8616}}, "step": 6974}
+Step:10461	{"metric": {"valid_eval": {"macro_f1": 0.5928, "micro_f1": 0.6106, "accuracy": 0.9139}}, "step": 10461}
+Step:10461	{"metric": {"test_test_test": {"macro_f1": 0.5704, "micro_f1": 0.5797, "accuracy": 0.8674}}, "step": 10461}
+Step:10898	{"metric": {"train": {"macro_f1": 0.5926, "micro_f1": 0.6026, "accuracy": 0.8811}}, "step": 10898}
+Step:16347	{"metric": {"train": {"macro_f1": 0.6787, "micro_f1": 0.6841, "accuracy": 0.9023}}, "step": 16347}
+Step:19370	{"metric": {"valid_eval": {"macro_f1": 0.5999, "micro_f1": 0.6002, "accuracy": 0.9068}}, "step": 19370}
+Step:19370	{"metric": {"test_test_test": {"macro_f1": 0.5852, "micro_f1": 0.5841, "accuracy": 0.8583}}, "step": 19370}
+Step:21796	{"metric": {"train": {"macro_f1": 0.7608, "micro_f1": 0.7633, "accuracy": 0.9252}}, "step": 21796}
+Step:24409	{"metric": {"valid_eval": {"macro_f1": 0.6032, "micro_f1": 0.6105, "accuracy": 0.9087}}, "step": 24409}
+Step:24409	{"metric": {"test_test_test": {"macro_f1": 0.5996, "micro_f1": 0.6031, "accuracy": 0.8632}}, "step": 24409}
+Step:27245	{"metric": {"train": {"macro_f1": 0.8335, "micro_f1": 0.8343, "accuracy": 0.9468}}, "step": 27245}
+Step:27896	{"metric": {"valid_eval": {"macro_f1": 0.606, "micro_f1": 0.612, "accuracy": 0.9073}}, "step": 27896}
+Step:27896	{"metric": {"test_test_test": {"macro_f1": 0.596, "micro_f1": 0.6003, "accuracy": 0.8571}}, "step": 27896}
+Step:32694	{"metric": {"train": {"macro_f1": 0.8742, "micro_f1": 0.8747, "accuracy": 0.9596}}, "step": 32694}
+
+
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1022, "cl": 0.3}, "metric": {"stop": 3, "tv_mf1": 0.6054, "te_mf1": 0.5971}}
+Step:4359	{"metric": {"valid_eval": {"macro_f1": 0.5479, "micro_f1": 0.594, "accuracy": 0.9058}}, "step": 4359}
+Step:4359	{"metric": {"test_test_test": {"macro_f1": 0.5184, "micro_f1": 0.5589, "accuracy": 0.8592}}, "step": 4359}
+Step:5449	{"metric": {"train": {"macro_f1": 0.4575, "micro_f1": 0.4701, "accuracy": 0.8522}}, "step": 5449}
+Step:6974	{"metric": {"valid_eval": {"macro_f1": 0.5712, "micro_f1": 0.5902, "accuracy": 0.9216}}, "step": 6974}
+Step:6974	{"metric": {"test_test_test": {"macro_f1": 0.5079, "micro_f1": 0.5131, "accuracy": 0.8646}}, "step": 6974}
+Step:10898	{"metric": {"train": {"macro_f1": 0.5896, "micro_f1": 0.5997, "accuracy": 0.8809}}, "step": 10898}
+Step:13948	{"metric": {"valid_eval": {"macro_f1": 0.5793, "micro_f1": 0.6082, "accuracy": 0.9137}}, "step": 13948}
+Step:13948	{"metric": {"test_test_test": {"macro_f1": 0.5347, "micro_f1": 0.5557, "accuracy": 0.8579}}, "step": 13948}
+Step:16347	{"metric": {"train": {"macro_f1": 0.6743, "micro_f1": 0.6798, "accuracy": 0.9014}}, "step": 16347}
+Step:17435	{"metric": {"valid_eval": {"macro_f1": 0.6041, "micro_f1": 0.6097, "accuracy": 0.9071}}, "step": 17435}
+Step:17435	{"metric": {"test_test_test": {"macro_f1": 0.5813, "micro_f1": 0.5831, "accuracy": 0.8581}}, "step": 17435}
+Step:20922	{"metric": {"valid_eval": {"macro_f1": 0.6054, "micro_f1": 0.6115, "accuracy": 0.9073}}, "step": 20922}
+Step:20922	{"metric": {"test_test_test": {"macro_f1": 0.5971, "micro_f1": 0.6024, "accuracy": 0.8599}}, "step": 20922}
+Step:21796	{"metric": {"train": {"macro_f1": 0.7555, "micro_f1": 0.7585, "accuracy": 0.9238}}, "step": 21796}
+Step:27245	{"metric": {"train": {"macro_f1": 0.8232, "micro_f1": 0.8246, "accuracy": 0.9437}}, "step": 27245}
+Step:32694	{"metric": {"train": {"macro_f1": 0.8657, "micro_f1": 0.8664, "accuracy": 0.9569}}, "step": 32694}

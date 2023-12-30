@@ -1,0 +1,15 @@
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 8545, "cl": 0.1}, "metric": {"stop": 7, "tv_mf1": 0.602, "te_mf1": 0.6169}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2032, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6085, "te_mf1": 0.6152}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 3605, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.5987, "te_mf1": 0.6002}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2470, "cl": 0.1}, "metric": {"stop": 7, "tv_mf1": 0.62, "te_mf1": 0.6176}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1912, "cl": 0.1}, "metric": {"stop": 7, "tv_mf1": 0.5971, "te_mf1": 0.6092}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 7538, "cl": 0.1}, "metric": {"stop": 9, "tv_mf1": 0.6038, "te_mf1": 0.6234}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 4765, "cl": 0.1}, "metric": {"stop": 8, "tv_mf1": 0.6002, "te_mf1": 0.6232}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 663, "cl": 0.1}, "metric": {"stop": 8, "tv_mf1": 0.5962, "te_mf1": 0.6099}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1877, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6051, "te_mf1": 0.6286}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2012, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.601, "te_mf1": 0.6267}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 658, "cl": 0.1}, "metric": {"stop": 2, "tv_mf1": 0.6097, "te_mf1": 0.6252}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1177, "cl": 0.1}, "metric": {"stop": 8, "tv_mf1": 0.5984, "te_mf1": 0.6184}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 9704, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.61, "te_mf1": 0.6318}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 7208, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.5987, "te_mf1": 0.6245}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2696, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6044, "te_mf1": 0.6331}}

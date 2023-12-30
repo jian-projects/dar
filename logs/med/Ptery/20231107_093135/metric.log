@@ -1,0 +1,173 @@
+2023-11-07 09:31:46.884 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.57, "dice": 0.42, "iou": 0.27}
+2023-11-07 09:31:54.073 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.57, "dice": 0.43, "iou": 0.27}
+2023-11-07 09:31:55.157 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.58, "dice": 0.42, "iou": 0.27, "time": 16.88}
+2023-11-07 09:31:59.085 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.55, "dice": 0.48, "iou": 0.31, "time": 3.898}
+2023-11-07 09:32:07.615 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.56, "dice": 0.51, "iou": 0.35}
+2023-11-07 09:32:14.633 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.56, "dice": 0.52, "iou": 0.35}
+2023-11-07 09:32:15.731 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.49, "dice": 0.58, "iou": 0.41, "time": 16.615}
+2023-11-07 09:32:24.266 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.53, "dice": 0.55, "iou": 0.38}
+2023-11-07 09:32:31.171 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.53, "dice": 0.56, "iou": 0.39}
+2023-11-07 09:32:32.265 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.44, "dice": 0.65, "iou": 0.48, "time": 16.498}
+2023-11-07 09:32:36.221 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.39, "dice": 0.7, "iou": 0.55, "time": 3.918}
+2023-11-07 09:32:45.859 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.36, "dice": 0.75, "iou": 0.6, "time": 9.607}
+2023-11-07 09:32:54.307 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.45, "dice": 0.58, "iou": 0.41}
+2023-11-07 09:33:01.094 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.44, "dice": 0.58, "iou": 0.41}
+2023-11-07 09:33:02.185 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.31, "dice": 0.79, "iou": 0.66, "time": 16.293}
+2023-11-07 09:33:05.568 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.27, "dice": 0.83, "iou": 0.72, "time": 3.349}
+2023-11-07 09:33:13.939 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.49, "dice": 0.59, "iou": 0.42}
+2023-11-07 09:33:20.756 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.49, "dice": 0.59, "iou": 0.42}
+2023-11-07 09:33:21.840 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.23, "dice": 0.87, "iou": 0.78, "time": 16.242}
+2023-11-07 09:33:30.323 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.47, "dice": 0.66, "iou": 0.49}
+2023-11-07 09:33:37.086 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.46, "dice": 0.67, "iou": 0.51}
+2023-11-07 09:33:38.109 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.2, "dice": 0.9, "iou": 0.83, "time": 16.233}
+2023-11-07 09:33:42.014 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.17, "dice": 0.92, "iou": 0.85, "time": 3.87}
+2023-11-07 09:33:51.525 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.17, "dice": 0.91, "iou": 0.84, "time": 9.481}
+2023-11-07 09:33:59.881 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.43, "dice": 0.67, "iou": 0.52}
+2023-11-07 09:34:06.605 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.42, "dice": 0.68, "iou": 0.53}
+2023-11-07 09:34:07.671 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.16, "dice": 0.91, "iou": 0.84, "time": 16.114}
+2023-11-07 09:34:11.155 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.13, "dice": 0.94, "iou": 0.88, "time": 3.446}
+2023-11-07 09:34:20.607 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.95, "iou": 0.9, "time": 9.42}
+2023-11-07 09:34:30.140 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.95, "iou": 0.91, "time": 9.501}
+2023-11-07 09:34:33.540 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.1, "dice": 0.96, "iou": 0.92, "time": 3.366}
+2023-11-07 09:34:42.969 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.09, "dice": 0.96, "iou": 0.92, "time": 9.399}
+2023-11-07 09:34:52.321 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.09, "dice": 0.96, "iou": 0.92, "time": 9.32}
+2023-11-07 09:34:56.249 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.08, "dice": 0.97, "iou": 0.94, "time": 3.895}
+2023-11-07 09:35:04.725 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.41, "dice": 0.68, "iou": 0.53}
+2023-11-07 09:35:11.501 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.4, "dice": 0.69, "iou": 0.54}
+2023-11-07 09:35:12.612 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.08, "dice": 0.97, "iou": 0.94, "time": 16.332}
+2023-11-07 09:35:21.024 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.36, "dice": 0.73, "iou": 0.58}
+2023-11-07 09:35:27.758 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.35, "dice": 0.74, "iou": 0.59}
+2023-11-07 09:35:28.769 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.08, "dice": 0.97, "iou": 0.95, "time": 16.122}
+2023-11-07 09:35:32.651 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.97, "iou": 0.95, "time": 3.847}
+2023-11-07 09:35:41.048 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.34, "dice": 0.75, "iou": 0.61}
+2023-11-07 09:35:47.806 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.33, "dice": 0.76, "iou": 0.62}
+2023-11-07 09:35:48.894 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.97, "iou": 0.95, "time": 16.211}
+2023-11-07 09:35:57.360 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.3, "dice": 0.78, "iou": 0.64}
+2023-11-07 09:36:04.093 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.3, "dice": 0.78, "iou": 0.65}
+2023-11-07 09:36:05.166 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.97, "iou": 0.95, "time": 16.237}
+2023-11-07 09:36:09.062 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.98, "iou": 0.95, "time": 3.858}
+2023-11-07 09:36:17.423 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.27, "dice": 0.8, "iou": 0.68}
+2023-11-07 09:36:24.203 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.27, "dice": 0.81, "iou": 0.68}
+2023-11-07 09:36:25.313 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.98, "iou": 0.95, "time": 16.219}
+2023-11-07 09:36:33.798 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.25, "dice": 0.82, "iou": 0.71}
+2023-11-07 09:36:40.542 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.25, "dice": 0.83, "iou": 0.71}
+2023-11-07 09:36:41.517 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.98, "iou": 0.96, "time": 16.167}
+2023-11-07 09:36:45.392 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.98, "iou": 0.96, "time": 3.837}
+2023-11-07 09:36:53.780 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.23, "dice": 0.84, "iou": 0.73}
+2023-11-07 09:37:00.607 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.23, "dice": 0.84, "iou": 0.73}
+2023-11-07 09:37:01.655 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.07, "dice": 0.98, "iou": 0.96, "time": 16.231}
+2023-11-07 09:37:10.615 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.57, "dice": 0.44, "iou": 0.29}
+2023-11-07 09:37:17.604 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.57, "dice": 0.44, "iou": 0.28}
+2023-11-07 09:37:18.718 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.65, "dice": 0.42, "iou": 0.27, "time": 16.643}
+2023-11-07 09:37:22.179 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.62, "dice": 0.45, "iou": 0.29, "time": 3.43}
+2023-11-07 09:37:30.778 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.54, "dice": 0.53, "iou": 0.36}
+2023-11-07 09:37:37.784 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.54, "dice": 0.53, "iou": 0.36}
+2023-11-07 09:37:38.979 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.55, "dice": 0.51, "iou": 0.35, "time": 16.769}
+2023-11-07 09:37:47.619 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.48, "dice": 0.54, "iou": 0.37}
+2023-11-07 09:37:54.499 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.48, "dice": 0.54, "iou": 0.37}
+2023-11-07 09:37:55.596 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.48, "dice": 0.56, "iou": 0.39, "time": 16.58}
+2023-11-07 09:37:59.540 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.41, "dice": 0.62, "iou": 0.45, "time": 3.91}
+2023-11-07 09:38:09.169 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.35, "dice": 0.69, "iou": 0.53, "time": 9.597}
+2023-11-07 09:38:18.593 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.3, "dice": 0.75, "iou": 0.61, "time": 9.391}
+2023-11-07 09:38:22.517 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.27, "dice": 0.81, "iou": 0.68, "time": 3.891}
+2023-11-07 09:38:30.898 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.81, "dice": 0.55, "iou": 0.39}
+2023-11-07 09:38:37.806 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.81, "dice": 0.55, "iou": 0.38}
+2023-11-07 09:38:38.970 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.23, "dice": 0.87, "iou": 0.77, "time": 16.422}
+2023-11-07 09:38:47.378 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 1.02, "dice": 0.58, "iou": 0.41}
+2023-11-07 09:38:54.138 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 1.04, "dice": 0.57, "iou": 0.41}
+2023-11-07 09:38:55.184 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.2, "dice": 0.91, "iou": 0.83, "time": 16.177}
+2023-11-07 09:38:59.150 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.18, "dice": 0.92, "iou": 0.85, "time": 3.931}
+2023-11-07 09:39:07.554 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.38, "dice": 0.76, "iou": 0.62}
+2023-11-07 09:39:14.327 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.41, "dice": 0.74, "iou": 0.59}
+2023-11-07 09:39:15.492 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.18, "dice": 0.91, "iou": 0.84, "time": 16.313}
+2023-11-07 09:39:24.958 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.17, "dice": 0.92, "iou": 0.85, "time": 9.431}
+2023-11-07 09:39:28.487 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.16, "dice": 0.92, "iou": 0.86, "time": 3.497}
+2023-11-07 09:39:38.018 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.14, "dice": 0.94, "iou": 0.88, "time": 9.5}
+2023-11-07 09:39:47.463 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.13, "dice": 0.94, "iou": 0.89, "time": 9.413}
+2023-11-07 09:39:50.867 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.12, "dice": 0.95, "iou": 0.91, "time": 3.371}
+2023-11-07 09:40:00.473 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.12, "dice": 0.96, "iou": 0.91, "time": 9.575}
+2023-11-07 09:40:10.025 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.96, "iou": 0.93, "time": 9.52}
+2023-11-07 09:40:13.902 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.1, "dice": 0.96, "iou": 0.93, "time": 3.844}
+2023-11-07 09:40:23.443 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.1, "dice": 0.97, "iou": 0.93, "time": 9.511}
+2023-11-07 09:40:32.929 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.09, "dice": 0.97, "iou": 0.94, "time": 9.455}
+2023-11-07 09:40:41.817 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.55, "dice": 0.49, "iou": 0.32}
+2023-11-07 09:40:48.880 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.55, "dice": 0.49, "iou": 0.32}
+2023-11-07 09:40:49.978 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.65, "dice": 0.44, "iou": 0.29, "time": 16.733}
+2023-11-07 09:40:53.923 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.61, "dice": 0.47, "iou": 0.3, "time": 3.914}
+2023-11-07 09:41:03.643 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.52, "dice": 0.5, "iou": 0.34, "time": 9.689}
+2023-11-07 09:41:13.107 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.46, "dice": 0.54, "iou": 0.37, "time": 9.431}
+2023-11-07 09:41:17.000 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.41, "dice": 0.58, "iou": 0.41, "time": 3.859}
+2023-11-07 09:41:26.648 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.37, "dice": 0.64, "iou": 0.48, "time": 9.617}
+2023-11-07 09:41:35.029 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.87, "dice": 0.52, "iou": 0.35}
+2023-11-07 09:41:41.829 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.86, "dice": 0.52, "iou": 0.35}
+2023-11-07 09:41:42.931 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.33, "dice": 0.72, "iou": 0.57, "time": 16.248}
+2023-11-07 09:41:46.478 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.29, "dice": 0.8, "iou": 0.67, "time": 3.511}
+2023-11-07 09:41:55.940 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.26, "dice": 0.88, "iou": 0.79, "time": 9.431}
+2023-11-07 09:42:04.371 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 3.17, "dice": 0.53, "iou": 0.36}
+2023-11-07 09:42:11.128 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 3.15, "dice": 0.53, "iou": 0.36}
+2023-11-07 09:42:12.199 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.24, "dice": 0.91, "iou": 0.84, "time": 16.227}
+2023-11-07 09:42:16.139 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.22, "dice": 0.92, "iou": 0.85, "time": 3.902}
+2023-11-07 09:42:24.559 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.79, "dice": 0.62, "iou": 0.45}
+2023-11-07 09:42:31.484 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.79, "dice": 0.63, "iou": 0.46}
+2023-11-07 09:42:32.659 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.2, "dice": 0.94, "iou": 0.88, "time": 16.49}
+2023-11-07 09:42:41.097 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.65, "dice": 0.66, "iou": 0.49}
+2023-11-07 09:42:47.926 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.65, "dice": 0.66, "iou": 0.5}
+2023-11-07 09:42:48.970 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.18, "dice": 0.94, "iou": 0.89, "time": 16.274}
+2023-11-07 09:42:52.489 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.17, "dice": 0.94, "iou": 0.89, "time": 3.483}
+2023-11-07 09:43:00.908 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.31, "dice": 0.79, "iou": 0.66}
+2023-11-07 09:43:07.747 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.3, "dice": 0.8, "iou": 0.66}
+2023-11-07 09:43:08.900 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.16, "dice": 0.95, "iou": 0.9, "time": 16.379}
+2023-11-07 09:43:17.291 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.28, "dice": 0.81, "iou": 0.68}
+2023-11-07 09:43:24.104 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.28, "dice": 0.81, "iou": 0.68}
+2023-11-07 09:43:25.142 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.15, "dice": 0.95, "iou": 0.91, "time": 16.205}
+2023-11-07 09:43:28.506 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.14, "dice": 0.96, "iou": 0.92, "time": 3.324}
+2023-11-07 09:43:36.855 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.26, "dice": 0.82, "iou": 0.7}
+2023-11-07 09:43:43.637 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.26, "dice": 0.83, "iou": 0.71}
+2023-11-07 09:43:44.793 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.14, "dice": 0.96, "iou": 0.93, "time": 16.256}
+2023-11-07 09:43:53.192 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.25, "dice": 0.83, "iou": 0.72}
+2023-11-07 09:44:00.006 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.24, "dice": 0.84, "iou": 0.73}
+2023-11-07 09:44:01.045 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.14, "dice": 0.96, "iou": 0.92, "time": 16.217}
+2023-11-07 09:44:04.938 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.13, "dice": 0.96, "iou": 0.92, "time": 3.855}
+2023-11-07 09:44:14.476 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.13, "dice": 0.96, "iou": 0.92, "time": 9.505}
+2023-11-07 09:44:22.762 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.23, "dice": 0.84, "iou": 0.74}
+2023-11-07 09:44:29.492 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.23, "dice": 0.85, "iou": 0.74}
+2023-11-07 09:44:30.517 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.12, "dice": 0.97, "iou": 0.94, "time": 16.009}
+2023-11-07 09:44:34.450 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.12, "dice": 0.97, "iou": 0.94, "time": 3.897}
+2023-11-07 09:44:42.865 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.23, "dice": 0.85, "iou": 0.75}
+2023-11-07 09:44:49.650 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.22, "dice": 0.86, "iou": 0.75}
+2023-11-07 09:44:50.767 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.95, "time": 16.284}
+2023-11-07 09:45:00.314 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.95, "time": 9.508}
+2023-11-07 09:45:04.232 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.94, "time": 3.885}
+2023-11-07 09:45:12.614 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.22, "dice": 0.86, "iou": 0.76}
+2023-11-07 09:45:19.321 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.21, "dice": 0.87, "iou": 0.77}
+2023-11-07 09:45:20.476 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.95, "time": 16.213}
+2023-11-07 09:45:28.918 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.21, "dice": 0.87, "iou": 0.77}
+2023-11-07 09:45:35.724 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.21, "dice": 0.87, "iou": 0.78}
+2023-11-07 09:45:36.794 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.95, "time": 16.283}
+2023-11-07 09:45:40.713 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.94, "time": 3.883}
+2023-11-07 09:45:50.309 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.11, "dice": 0.97, "iou": 0.95, "time": 9.565}
+2023-11-07 09:45:59.468 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.57, "dice": 0.47, "iou": 0.31}
+2023-11-07 09:46:06.679 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.57, "dice": 0.47, "iou": 0.31}
+2023-11-07 09:46:07.770 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.64, "dice": 0.3, "iou": 0.18, "time": 16.985}
+2023-11-07 09:46:11.373 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.61, "dice": 0.35, "iou": 0.21, "time": 3.572}
+2023-11-07 09:46:21.101 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.54, "dice": 0.46, "iou": 0.3, "time": 9.697}
+2023-11-07 09:46:30.782 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.48, "dice": 0.57, "iou": 0.4, "time": 9.65}
+2023-11-07 09:46:34.714 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.43, "dice": 0.66, "iou": 0.49, "time": 3.898}
+2023-11-07 09:46:43.270 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.54, "dice": 0.53, "iou": 0.36}
+2023-11-07 09:46:50.248 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.54, "dice": 0.53, "iou": 0.36}
+2023-11-07 09:46:51.455 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.38, "dice": 0.71, "iou": 0.55, "time": 16.709}
+2023-11-07 09:47:00.002 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.5, "dice": 0.56, "iou": 0.39}
+2023-11-07 09:47:06.894 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.49, "dice": 0.56, "iou": 0.39}
+2023-11-07 09:47:07.983 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.34, "dice": 0.76, "iou": 0.62, "time": 16.49}
+2023-11-07 09:47:11.921 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.29, "dice": 0.81, "iou": 0.68, "time": 3.903}
+2023-11-07 09:47:20.379 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.43, "dice": 0.57, "iou": 0.4}
+2023-11-07 09:47:27.185 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.42, "dice": 0.57, "iou": 0.4}
+2023-11-07 09:47:28.392 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.25, "dice": 0.86, "iou": 0.76, "time": 16.44}
+2023-11-07 09:47:36.834 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.46, "dice": 0.59, "iou": 0.42}
+2023-11-07 09:47:43.626 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.45, "dice": 0.59, "iou": 0.42}
+2023-11-07 09:47:44.694 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.21, "dice": 0.9, "iou": 0.83, "time": 16.265}
+2023-11-07 09:47:48.639 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.18, "dice": 0.93, "iou": 0.86, "time": 3.905}
+2023-11-07 09:47:57.056 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.48, "dice": 0.62, "iou": 0.46}
+2023-11-07 09:48:03.885 | INFO     | utils.processor:update_metric:216 - test_test_test: {"loss": 0.49, "dice": 0.62, "iou": 0.45}
+2023-11-07 09:48:05.040 | INFO     | utils.processor:update_metric:226 - train: {"loss": 0.17, "dice": 0.93, "iou": 0.86, "time": 16.37}
+2023-11-07 09:48:13.422 | INFO     | utils.processor:update_metric:190 - valid_eval: {"loss": 0.38, "dice": 0.69, "iou": 0.53}

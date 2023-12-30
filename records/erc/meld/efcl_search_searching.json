@@ -1,0 +1,25 @@
+# epochs_6, early_stop_2, ce*0.8+mlm*0.2+cl, no fl, ctx_256, fl_num_4
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1000, "cl": 0.1}, "metric": {"stop": 2, "tv_mf1": 0.6711, "te_mf1": 0.661}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1001, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6773, "te_mf1": 0.6722}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1002, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6676, "te_mf1": 0.6614}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1003, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.671, "te_mf1": 0.6623}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1004, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6689, "te_mf1": 0.6625}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1005, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6538, "te_mf1": 0.6611}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1006, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6712, "te_mf1": 0.66}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1007, "cl": 0.1}, "metric": {"stop": 2, "tv_mf1": 0.6714, "te_mf1": 0.6701}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1008, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6695, "te_mf1": 0.6606}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 1009, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6699, "te_mf1": 0.659}}
+
+# epochs_6, early_stop_2, ce*0.8+mlm*0.2+cl, no fl, ctx_256, fl_num_3
+
+
+# epochs_6, early_stop_2, ce*0.8+mlm*0.2+cl, no fl, ctx_160, fl_num_3, bz_32, lr_5e-6,
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 32, "dr": 0.3, "seed": 1000, "cl": 0.1}, "metric": {"stop": 3, "tv_mf1": 0.6623, "te_mf1": 0.6695}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 32, "dr": 0.3, "seed": 1001, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6703, "te_mf1": 0.6753}}
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 32, "dr": 0.3, "seed": 1002, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6757, "te_mf1": 0.6703}}
+
+6 2 0.8 0.2 128 4 full_mask add_cls step_1
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 36, "dr": 0.3, "seed": 2863, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6684, "te_mf1": 0.6784}}
+
+6 2 0.8 0.2 128 4 full_mask add_cls step_1.25
+{"params": {"lr": 0.001, "lr_pre": 5e-06, "bz": 36, "dr": 0.3, "seed": 2863, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6749, "te_mf1": 0.6773}}

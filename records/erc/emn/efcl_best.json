@@ -1,0 +1,3 @@
+
+"flow_num: 5"
+{"params": {"lr": 0.0005, "lr_pre": 5e-06, "bz": 16, "dr": 0.3, "seed": 6022, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.4148, "te_mf1": 0.3815}}

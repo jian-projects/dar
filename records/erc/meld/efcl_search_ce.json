@@ -1,0 +1,38 @@
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 6060, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.6344, "te_mf1": 0.6406}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1813, "cl": 0.0}, "metric": {"stop": 4, "tv_mf1": 0.6423, "te_mf1": 0.6303}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 7828, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.6406, "te_mf1": 0.651}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 2912, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.6401, "te_mf1": 0.6378}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 746, "cl": 0.0}, "metric": {"stop": 4, "tv_mf1": 0.6469, "te_mf1": 0.6511}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 6953, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.6341, "te_mf1": 0.6342}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 5803, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.6331, "te_mf1": 0.638}}
+
+
+
+% context 增加了label信息
+% flow_num=1, cl_rate=0.0
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 1318, "cl": 0.0}, "metric": {"stop": 5, "tv_mf1": 0.6641, "te_mf1": 0.6583}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 4571, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.666, "te_mf1": 0.6398}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 5402, "cl": 0.0}, "metric": {"stop": 3, "tv_mf1": 0.6658, "te_mf1": 0.6541}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 242, "cl": 0}, "metric": {"stop": 4, "tv_mf1": 0.6636, "te_mf1": 0.646}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 5495, "cl": 0}, "metric": {"stop": 3, "tv_mf1": 0.6626, "te_mf1": 0.6404}}
+
+% flow_num=1
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 7102, "cl": 0.1}, "metric": {"stop": 5, "tv_mf1": 0.6575, "te_mf1": 0.6463}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 3461, "cl": 0.1}, "metric": {"stop": 4, "tv_mf1": 0.6588, "te_mf1": 0.6466}}
+
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 5021, "cl": 0.2}, "metric": {"stop": 3, "tv_mf1": 0.659, "te_mf1": 0.6527}}
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 32, "dr": 0.3, "seed": 9579, "cl": 0.2}, "metric": {"stop": 4, "tv_mf1": 0.6506, "te_mf1": 0.6486}}
+
+% add emotion flow loss
+
+
+% 改成层次分类
+% 只有ce_loss large
+{"params": {"lr": 0.001, "lr_pre": 3e-05, "bz": 4, "dr": 0.3, "seed": 5841, "cl": 0.1}, "metric": {"stop": 1, "tv_mf1": 0.6611, "te_mf1": 0.6702}}
